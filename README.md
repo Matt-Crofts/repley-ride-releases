@@ -18,28 +18,43 @@ test it. You need an invite code; it came with your invite.
 | Windows 10 or 11 | [REPley-Ride-windows.exe](https://github.com/Matt-Crofts/repley-ride-releases/releases/latest/download/REPley-Ride-windows.exe) |
 | Linux | [REPley-Ride-linux.AppImage](https://github.com/Matt-Crofts/repley-ride-releases/releases/latest/download/REPley-Ride-linux.AppImage) |
 
-These links always give the newest version.
+These links always give the newest version. Every download's checksum is in `SHA256SUMS` on the release.
 
 ## 2. Install
 
-The beta is not yet registered with Apple or Microsoft, so your computer asks you to allow it once.
-
 **Mac**
 1. Open the downloaded file and drag REPley Ride into Applications.
-2. Open REPley Ride from Applications. macOS says it cannot check the app: click **Done**.
-3. Open **System Settings**, then **Privacy & Security**. Scroll down and click **Open Anyway** next to
-   REPley Ride, then confirm with your password or Touch ID.
-4. When REPley Ride asks to use Bluetooth, click **Allow**.
+2. Open REPley Ride from Applications. It is signed and checked by Apple, so it opens straight away.
+3. When REPley Ride asks to use Bluetooth, click **Allow**.
 
 **Windows**
-1. Open the downloaded file. If Windows says it protected your PC, click **More info**, then
-   **Run anyway**. REPley Ride installs and opens.
-2. Make sure Bluetooth is on. Windows has had the least testing so far, so tell us how it goes.
+1. Open the downloaded file. The beta is not yet registered with Microsoft, so if Windows says it
+   protected your PC, click **More info**, then **Run anyway**. REPley Ride installs and opens.
+2. Make sure Bluetooth is on in Settings, Bluetooth & devices. Windows has had the least testing so
+   far, so tell us how it goes.
 
-**Linux**
+**Linux: Arch and Omarchy**
+
+Add the REPley Ride repository once, then install it like any other package. It appears in the app menu, and
+`sudo pacman -Syu` updates it with everything else.
+
+```bash
+sudo tee -a /etc/pacman.conf >/dev/null <<'EOF'
+
+[repley-ride]
+SigLevel = Optional TrustAll
+Server = https://github.com/Matt-Crofts/repley-ride-releases/releases/latest/download
+EOF
+sudo pacman -Sy repley-ride-bin
+```
+
+The packages are built from a public recipe (`repley-ride-bin-recipe.tar.gz` on each release) and are not signed
+yet, which is what the `SigLevel` line allows for.
+
+**Other Linux**
 1. Make the file runnable: in a terminal, `chmod +x ~/Downloads/REPley-Ride-linux.AppImage`
    (or in your file manager: Properties, then allow it to run as a program).
-2. Open it. So far it has been tested on Omarchy (Arch Linux).
+2. Open it.
 
 ## 3. Join with your code
 
