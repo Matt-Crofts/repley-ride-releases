@@ -77,8 +77,9 @@ After your first ride, REPley Ride asks two quick questions. Your answers shape 
 
 When a new version is ready, the start screen says so. Download it from this page and install it
 over the old one: on a Mac, drag it into Applications again; on Windows, open the new installer; on
-Linux, replace the old file. On a Mac, if you connected REPley Ride to REPley, the update may ask
-whether it can use its saved connection: click **Always Allow**.
+Linux, replace the old file. If you paired with REPley on a beta build from before 0.2.1, your Mac asks
+once, when you next pair or a ride is sent, whether REPley Ride may use its keychain: click **Always Allow**.
+Builds from 0.2.1 on are signed, so they are never asked again.
 
 ## Your data
 
