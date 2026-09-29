@@ -20,6 +20,18 @@ test it. You need an invite code; it came with your invite.
 
 These links always give the newest version. Every download's checksum is in `SHA256SUMS` on the release.
 
+## Versions
+
+| Version | Released |
+|---|---|
+| **0.4.0** (newest) | 30 Sep 2026, 1:23 AM |
+| 0.3.0 | 29 Sep 2026, 7:45 AM |
+| 0.2.1 | 28 Sep 2026, 10:15 PM |
+| 0.2.0 | 28 Sep 2026, 5:34 PM |
+
+The newest is at the top, with when it came out (Melbourne time). When a newer version than yours is out,
+REPley Ride says so on its start screen, with a link back here.
+
 ## 2. Install
 
 **Mac**
@@ -85,8 +97,10 @@ Builds from 0.2.1 on are signed, so they are never asked again.
 
 While you are in the beta, the app tells us when you ride, for how long and how far, the scene and
 mode, your trainer's model, your computer's system and the app version, so we can see what riders
-use. Never your heart rate or power: your rides stay on your computer unless you send them to
-REPley or Strava.
+use. After a ride on a trainer, or a start that fails, it also sends that session's Bluetooth log:
+when your trainer and strap connected and dropped and what went wrong, so we can fix it. Never
+your heart rate or power: your rides stay on your computer unless you send them to REPley or
+Strava.
 
 ## Help
 
