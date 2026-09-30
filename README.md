@@ -14,9 +14,14 @@ test it. You need an invite code; it came with your invite.
 
 | Your computer | Download |
 |---|---|
-| Mac (Apple chip or Intel) | [REPley-Ride-mac.dmg](https://github.com/Matt-Crofts/repley-ride-releases/releases/latest/download/REPley-Ride-mac.dmg) |
+| Mac with an Apple chip (M1 or later) | [REPley-Ride-mac-apple-silicon.dmg](https://github.com/Matt-Crofts/repley-ride-releases/releases/latest/download/REPley-Ride-mac-apple-silicon.dmg) |
+| Mac with an Intel processor | [REPley-Ride-mac-intel.dmg](https://github.com/Matt-Crofts/repley-ride-releases/releases/latest/download/REPley-Ride-mac-intel.dmg) |
 | Windows 10 or 11 | [REPley-Ride-windows.exe](https://github.com/Matt-Crofts/repley-ride-releases/releases/latest/download/REPley-Ride-windows.exe) |
 | Linux | [REPley-Ride-linux.AppImage](https://github.com/Matt-Crofts/repley-ride-releases/releases/latest/download/REPley-Ride-linux.AppImage) |
+
+Not sure which Mac you have? Choose Apple menu > About This Mac: it says **Chip: Apple M…** for an Apple chip, or
+**Processor: Intel** for Intel. Each Mac download carries only what that chip needs, so it is about 100 MB smaller than
+one for both.
 
 These links always give the newest version. Every download's checksum is in `SHA256SUMS` on the release.
 
@@ -24,7 +29,8 @@ These links always give the newest version. Every download's checksum is in `SHA
 
 | Version | Released |
 |---|---|
-| **0.4.2** (newest) | 30 Sep 2026, 8:01 PM |
+| **0.4.3** (newest) | 30 Sep 2026, 8:51 PM |
+| 0.4.2 | 30 Sep 2026, 8:08 PM |
 | 0.4.1 | 30 Sep 2026, 8:05 AM |
 | 0.4.0 | 30 Sep 2026, 1:28 AM |
 | 0.3.0 | 29 Sep 2026, 7:45 AM |
