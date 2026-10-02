@@ -29,7 +29,8 @@ These links always give the newest version. Every download's checksum is in `SHA
 
 | Version | Released |
 |---|---|
-| **0.5.0** (newest) | 2 Oct 2026, 5:32 PM |
+| **0.5.1** (newest) | 2 Oct 2026, 10:09 PM |
+| 0.5.0 | 2 Oct 2026, 5:39 PM |
 | 0.4.3 | 30 Sep 2026, 8:56 PM |
 | 0.4.2 | 30 Sep 2026, 8:08 PM |
 | 0.4.1 | 30 Sep 2026, 8:05 AM |
