@@ -1,7 +1,7 @@
 # REPley Ride beta
 
 Indoor riding on your smart trainer, with calm scenery and your own videos alongside. Free while we
-test it. You need an invite code; it came with your invite.
+test it. You sign in to REPley Ride with your email: it sends you a code to type in.
 
 ## What you need
 
@@ -29,7 +29,8 @@ These links always give the newest version. Every download's checksum is in `SHA
 
 | Version | Released |
 |---|---|
-| **0.4.3** (newest) | 30 Sep 2026, 8:51 PM |
+| **0.5.0** (newest) | 2 Oct 2026, 5:32 PM |
+| 0.4.3 | 30 Sep 2026, 8:56 PM |
 | 0.4.2 | 30 Sep 2026, 8:08 PM |
 | 0.4.1 | 30 Sep 2026, 8:05 AM |
 | 0.4.0 | 30 Sep 2026, 1:28 AM |
@@ -76,10 +77,10 @@ yet, which is what the `SigLevel` line allows for.
    (or in your file manager: Properties, then allow it to run as a program).
 2. Open it.
 
-## 3. Join with your code
+## 3. Sign in
 
-The first time REPley Ride opens, type the invite code from your invite and click **Join the beta**.
-Each computer needs it once.
+The first time REPley Ride opens, it asks for your email, then for the code it sends you. Your REPley
+account is how the beta knows you: use the same email on each computer.
 
 ## 4. Set up and ride
 
@@ -110,6 +111,9 @@ when your trainer and strap connected and dropped and what went wrong, so we can
 your heart rate or power: your rides stay on your computer unless you send them to REPley or
 Strava.
 
+So that we can tell testers apart, and answer you, we keep the first name and email from your REPley
+account next to those reports.
+
 ## Help
 
-Stuck, or found something broken? Reply to the message your invite came in.
+Stuck, or found something broken? Tell whoever sent you this page.
