@@ -29,7 +29,8 @@ These links always give the newest version. Every download's checksum is in `SHA
 
 | Version | Released |
 |---|---|
-| **0.5.3** (newest) | 5 Oct 2026, 10:20 PM |
+| **0.5.4** (newest) | 8 Oct 2026, 11:17 PM |
+| 0.5.3 | 5 Oct 2026, 10:24 PM |
 | 0.5.2 | 3 Oct 2026, 9:44 AM |
 | 0.5.1 | 2 Oct 2026, 10:15 PM |
 | 0.5.0 | 2 Oct 2026, 5:39 PM |
@@ -39,7 +40,6 @@ These links always give the newest version. Every download's checksum is in `SHA
 | 0.4.0 | 30 Sep 2026, 1:28 AM |
 | 0.3.0 | 29 Sep 2026, 7:45 AM |
 | 0.2.1 | 28 Sep 2026, 10:15 PM |
-| 0.2.0 | 28 Sep 2026, 5:34 PM |
 
 The newest is at the top, with when it came out (Melbourne time). When a newer version than yours is out,
 REPley Ride says so on its start screen, with a link back here.
@@ -52,8 +52,9 @@ REPley Ride says so on its start screen, with a link back here.
 3. When REPley Ride asks to use Bluetooth, click **Allow**.
 
 **Windows**
-1. Open the downloaded file. The beta is not yet registered with Microsoft, so if Windows says it
-   protected your PC, click **More info**, then **Run anyway**. REPley Ride installs and opens.
+1. Open the downloaded file. The installer is signed by Chain Brothers Pty Ltd. While REPley Ride is
+   new, Windows may still say it protected your PC: click **More info**, then **Run anyway**. REPley
+   Ride installs and opens.
 2. Make sure Bluetooth is on in Settings, Bluetooth & devices. Windows has had the least testing so
    far, so tell us how it goes.
 
