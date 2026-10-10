@@ -10,10 +10,11 @@ merged and not yet released; a release names `## Next` as its version. Keep each
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
-## 0.5.5
+## 0.6.0
 
-- **ANT+ trainers and straps** through a USB stick, on Linux: REPley Ride picks the radio that reaches your trainer,
-  Bluetooth first, and Advanced on Your bike lets you choose. Your trainer and strap show which radio they are on.
+- **ANT+ trainers and straps** through a USB stick, on Mac, Windows and Linux: REPley Ride picks the radio that
+  reaches your trainer, Bluetooth first, and Advanced on Your bike lets you choose. Your trainer and strap show which
+  radio they are on. Quit Zwift and Garmin Express first: one app at a time can use the stick.
 - **Start is instant.** Your trainer connects while you choose a ride and is held ready, so Start is just the
   countdown, and the ride's clock starts with your first pedal stroke.
 - **Help in one line.** When something is in the way of a good connection, the start screen says what, and offers
