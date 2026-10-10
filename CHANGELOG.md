@@ -1,11 +1,14 @@
 # What's new in REPley Ride
 
-REPley Ride's own changelog, in a rider's words: what changed on the bike, newest first. REPley's changelog
-covers the coaching platform; this one covers the app on your computer. The release workflow publishes each
-version's section as its release notes, which the app shows when that version is ready.
+What changed in REPley Ride, the app on your computer, newest first.
 
-Each section starts `## <version>`, with `## Next` for what is merged and not yet released; a release renames
-`## Next` to its version. Keep each entry to one line a rider would care about.
+<!--
+For us, not riders: REPley Ride's own changelog, separate from REPley's (the coaching platform). The release
+workflow publishes each version's section as its release notes, which the app shows when that version is ready,
+and this whole file beside the download page. Each section starts `## <version>`, with `## Next` for what is
+merged and not yet released; a release names `## Next` as its version. Keep each entry to one line a rider would
+care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
+-->
 
 ## Next
 
