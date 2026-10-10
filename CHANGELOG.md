@@ -10,7 +10,7 @@ merged and not yet released; a release names `## Next` as its version. Keep each
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
-## Next
+## 0.5.5
 
 - **ANT+ trainers and straps** through a USB stick, on Linux: REPley Ride picks the radio that reaches your trainer,
   Bluetooth first, and Advanced on Your bike lets you choose. Your trainer and strap show which radio they are on.
