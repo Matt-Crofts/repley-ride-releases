@@ -5,9 +5,13 @@ test it. You sign in to REPley Ride with your email: it sends you a code to type
 
 ## What you need
 
-- A smart trainer that speaks Bluetooth FTMS, the standard most recent trainers use. The beta is
-  untested on most models, so tell us how yours goes.
-- A computer with Bluetooth: a Mac, a Windows 10 or 11 PC, or a Linux computer.
+- A smart trainer: one that sets its own resistance. If it works with Zwift, it almost certainly works here.
+  That is Wahoo KICKR, CORE, SNAP and MOVE; Tacx NEO and Flux; Elite Direto, Suito and Justo; Zwift Hub; Saris
+  H3; and most others from about 2020 on. It connects over Bluetooth (FTMS), or on Linux over an ANT+ USB stick
+  (FE-C). The KICKR CORE is tested on both; the rest use the same standards and are not yet tested, so tell us how
+  yours goes. The full list is on [REPley's trainer help](https://www.buildstability.com/help/client-ride-trainers-and-connections).
+- A computer with Bluetooth: a Mac, a Windows 10 or 11 PC, or a Linux computer. On Linux, an ANT+ USB stick
+  works instead.
 - A heart-rate strap if you have one. It is optional.
 
 ## 1. Download
@@ -29,7 +33,7 @@ These links always give the newest version. Every download's checksum is in `SHA
 
 | Version | Released |
 |---|---|
-| **0.5.4** (newest) | 8 Oct 2026, 11:17 PM |
+| **0.5.4** (newest) | 8 Oct 2026, 11:24 PM |
 | 0.5.3 | 5 Oct 2026, 10:24 PM |
 | 0.5.2 | 3 Oct 2026, 9:44 AM |
 | 0.5.1 | 2 Oct 2026, 10:15 PM |
@@ -39,7 +43,6 @@ These links always give the newest version. Every download's checksum is in `SHA
 | 0.4.1 | 30 Sep 2026, 8:05 AM |
 | 0.4.0 | 30 Sep 2026, 1:28 AM |
 | 0.3.0 | 29 Sep 2026, 7:45 AM |
-| 0.2.1 | 28 Sep 2026, 10:15 PM |
 
 The newest is at the top, with when it came out (Melbourne time). When a newer version than yours is out,
 REPley Ride says so on its start screen, with a link back here.
@@ -96,6 +99,10 @@ account is how the beta knows you: use the same email on each computer.
 Close Zwift, the Wahoo app or any other training app first: only one app at a time can control the
 trainer.
 
+If your trainer connects but will not take control, update its firmware in its maker's app (the Wahoo app for a
+KICKR: Devices, your KICKR, Update firmware), close that app, and try again. On Windows, also remove the trainer
+from Settings, Bluetooth & devices if it is listed there, and turn Bluetooth off and on.
+
 After your first ride, REPley Ride asks two quick questions. Your answers shape what we build next.
 
 ## Updates
@@ -120,4 +127,7 @@ account next to those reports.
 
 ## Help
 
-Stuck, or found something broken? Tell whoever sent you this page.
+[REPley's trainer help](https://www.buildstability.com/help/client-ride-trainers-and-connections) covers which
+trainers work, a trainer that will not show up or take control, and drops. In the app, **Can't find your
+trainer?** on Your bike has the checks and sends us a setup report. Stuck, or found something broken? Tell whoever
+sent you this page.
