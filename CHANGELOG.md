@@ -10,11 +10,30 @@ merged and not yet released; a release names `## Next` as its version. Keep each
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.7.0
+
+- **Your settings, grouped:** Edit rider has four tabs, Trainer and connections, Rider, Graphics and Account, as
+  the setup steps group them. Each row of your rider card opens the tab that changes it.
+- **Switch heart-rate straps without stopping:** the ride's new Devices button shows your trainer and strap, and
+  swaps to another of your straps, on Bluetooth or ANT+, in a tap.
+- **ERG, road feel, U-turn and Finish on the ride's bar,** so the menu is only for the rest, now grouped Ride,
+  Trainer and connections, Screen and Sound.
+- **Rides go to REPley as you leave the summary,** with your effort, whether you ride again or quit. Rode the wrong
+  ride? Don't send this one keeps it on your computer.
+- **A clearer menu:** Today, then Just ride, then You. Your rides moved to Journey, beside your progress.
+- **Sign in a phone** from your rider card: the REPley app's code is a click away, for a second phone too.
+- Send to REPley says when it is sending and when it is sent, setup reports confirm they went, the robot coach is
+  chosen on Pace partner, and Full screen fits the sidebar on a Mac.
+
 ## 0.6.0
 
-- **ANT+ trainers and straps** through a USB stick, on Mac, Windows and Linux: REPley Ride picks the radio that
-  reaches your trainer, Bluetooth first, and Advanced on Your bike lets you choose. Your trainer and strap show which
-  radio they are on. Quit Zwift and Garmin Express first: one app at a time can use the stick.
+- **ANT+ on Mac and Windows** too, through a USB stick: REPley Ride picks the radio that reaches your trainer,
+  Bluetooth first. Quit Zwift and Garmin Express first: one app at a time can use the stick.
+
+## 0.5.5
+
+- **ANT+ trainers and straps** through a USB stick, on Linux: REPley Ride picks the radio that reaches your trainer,
+  Bluetooth first, and Advanced on Your bike lets you choose. Your trainer and strap show which radio they are on.
 - **Start is instant.** Your trainer connects while you choose a ride and is held ready, so Start is just the
   countdown, and the ride's clock starts with your first pedal stroke.
 - **Help in one line.** When something is in the way of a good connection, the start screen says what, and offers
@@ -23,6 +42,7 @@ care about, with a **bold lead** where it has one: the app's update line names t
   maker's app, or to remove an old pairing in Windows' Bluetooth settings.
 - **Look for it now** in the ride's menu finds a dropped trainer at once. The ride never stops for it.
 - **Updates in one click:** REPley Ride downloads the new version itself and opens the installer.
+- Every file in the Windows app is signed, so Windows 11's Smart App Control lets it run.
 
 ## 0.5.4
 
