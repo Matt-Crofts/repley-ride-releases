@@ -10,6 +10,14 @@ merged and not yet released; a release names `## Next` as its version. Keep each
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.7.2
+
+- **Your ANT+ trainer connects with Edit rider open:** the screen's search for other trainers no longer gets in its way.
+- **A drop is a drop:** the app stops blaming Zwift or the Wahoo app each time an ANT+ trainer drops.
+- **Ride again after a short ride:** a ride under a minute, which REPley doesn't take, says it stays on this computer
+  and no longer holds you on the summary.
+- No Bluetooth message on a computer without Bluetooth while your trainer rides on ANT+.
+
 ## 0.7.1
 
 - **ANT+ on Windows with Windows' own driver:** plug in the stick and let Windows Update install Dynastream's driver,
