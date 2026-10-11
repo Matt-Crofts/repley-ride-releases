@@ -10,6 +10,14 @@ merged and not yet released; a release names `## Next` as its version. Keep each
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.7.1
+
+- **ANT+ on Windows with Windows' own driver:** plug in the stick and let Windows Update install Dynastream's driver,
+  and REPley Ride uses it. Nothing else to install.
+- **Imported GPX rides, cleaner and quicker to start:** one road where a ride goes out and back, bridges where it
+  crosses itself, a sky all the way round and a map that fills at every zoom, ready about 7x sooner.
+- What's new and the download page open on buildstability.com.
+
 ## 0.7.0
 
 - **Your settings, grouped:** Edit rider has four tabs, Trainer and connections, Rider, Graphics and Account, as
