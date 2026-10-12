@@ -10,6 +10,13 @@ merged and not yet released; a release names `## Next` as its version. Keep each
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.9.1
+
+- **Pictures with or without your numbers:** each screenshot on the Save panel has a Data switch. On, the course and
+  your big numbers as they were along its foot, larger than before; off, just the road and REPley Ride. Each starts
+  the way your screen was, and Data on all or none does the lot.
+- Heart rate shows on your pictures only if it goes to Strava with your rides. The ride on Strava is the same either way.
+
 ## 0.9.0
 
 - **Numbers: Full, Minimal or Off:** one switch on the ride's bar, D on the keyboard or a click of the right stick,
