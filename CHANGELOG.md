@@ -10,6 +10,18 @@ merged and not yet released; a release names `## Next` as its version. Keep each
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.8.0
+
+- **One Save ride, for REPley and Strava:** the finish screen fits one screen, a TV's included, with a tick for each
+  place your ride goes and its title already filled in.
+- **Your ride's summary picture:** your numbers, wins and charts in one REPley Ride picture, first among the ride's
+  pictures for Strava.
+- **Add your pictures on Strava:** Open on Strava shows the ride's own page inside the app, to drag the pictures
+  onto. On a TV, send them to the REPley app on your phone instead.
+- **Riders on the road at a bike's pace:** groups no longer fly past like cars.
+- **A shorter survey,** only for riders on their free trial, as they quit.
+- Past rides open with their picture, and a simulator ride's finish screen says plainly it stays on this computer.
+
 ## 0.7.2
 
 - **Your ANT+ trainer connects with Edit rider open:** the screen's search for other trainers no longer gets in its way.
