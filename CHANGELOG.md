@@ -10,6 +10,14 @@ merged and not yet released; a release names `## Next` as its version. Keep each
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.9.0
+
+- **Numbers: Full, Minimal or Off:** one switch on the ride's bar, D on the keyboard or a click of the right stick,
+  and the next ride starts the same way. Off is just the road.
+- **Choose your numbers:** up to three big and five small, any of sixteen, in Edit rider, Graphics. W/kg now sits
+  under your power, and heart rate shows speed when no strap is on.
+- **The climb chart shows the heights:** the metres still to climb in large, your height and the top's on the chart.
+
 ## 0.8.1
 
 - **Strava in one sign-in, and you see the account:** Connect Strava opens inside REPley Ride, the same place you add
