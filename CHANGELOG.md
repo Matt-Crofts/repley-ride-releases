@@ -10,6 +10,14 @@ merged and not yet released; a release names `## Next` as its version. Keep each
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.8.1
+
+- **Strava in one sign-in, and you see the account:** Connect Strava opens inside REPley Ride, the same place you add
+  your pictures, and your ride's Save shows which Strava account it goes to, with Change.
+- **Your trainer stays under control after Check it works:** checking a Bluetooth trainer while it was still
+  connecting could leave it saying connected while the ride's hills did nothing. A trainer that stops answering now
+  reconnects by itself.
+
 ## 0.8.0
 
 - **One Save ride, for REPley and Strava:** the finish screen fits one screen, a TV's included, with a tick for each
