@@ -10,6 +10,23 @@ merged and not yet released; a release names `## Next` as its version. Keep each
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.9.3
+
+- **Pedalling always moves you up the hill:** at low power on a steep climb, like an ERG warm-up up Alpe d'Huez, your
+  rider no longer slows to a stop and pedals on the spot. They crawl on at the speed your watts can hold.
+- **Adding pictures from full screen:** Open on Strava takes REPley Ride out of full screen, so your pictures sit
+  beside Strava's page to drag from, and puts it back when Strava's window closes.
+- **Heart rate on every simulator ride:** a ride with the simulator no longer keeps its pretend strap as yours, so the
+  next one has heart rate and your own strap is picked up the first time it is on.
+- **The welcome film shows the new numbers,** sharper at the same size, and its opening says what REPley Ride is:
+  ride, strength and a science-backed plan, three apps in one.
+- **Cleaner forests:** no pale flakes in the gums' leaves, no flat-drawn trees by the next bend of a winding climb,
+  and no flat slab across Mount Buller's canopy.
+- **Creek names fit their signs:** "Buller Creek" and the longer Alpine names were cut off top and bottom.
+- REPley Ride reads the right way round everywhere: on the robot coach at every portal, the crosswind flags, the
+  turnaround's flags and the Dutch corner's banner. The portal's sign also fades before it reaches your numbers.
+- "Gear 14" no longer covers the top of the KOM banner, and the arrows beside the courses go dim at either end.
+
 ## 0.9.2
 
 - **No more "Sending to Strava" for good:** if REPley can't send your ride to Strava, the summary says why, and it
