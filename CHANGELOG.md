@@ -10,6 +10,16 @@ merged and not yet released; a release names `## Next` as its version. Keep each
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.9.4
+
+- **Save ride is always in view:** the Save panel never grows taller than the screen, however many pictures a ride
+  has; the pictures scroll inside it instead.
+- **A turning loop at each end of the forest climb:** a big loop of gravel the ride goes round, where it used to
+  spin on the spot, with the forest kept clear of it. Its map no longer has pale edges, and its climb chart shows.
+- **Sign in to YouTube, TikTok, Audible and the rest inside the app:** a Sign in button on the video panel opens the
+  service's sign-in in a bigger window, once; it stays signed in here, like Strava. Google's sign-in works inside
+  the app after all, so the old "watch in your browser" note is gone.
+
 ## 0.9.3
 
 - **Pedalling always moves you up the hill:** at low power on a steep climb, like an ERG warm-up up Alpe d'Huez, your
