@@ -31,7 +31,8 @@ These links always give the newest version. Every download's checksum is in `SHA
 
 | Version | Released |
 |---|---|
-| **0.9.1** (newest) | 13 Oct 2026, 10:35 AM |
+| **0.9.2** (newest) | 13 Oct 2026, 2:52 PM |
+| 0.9.1 | 13 Oct 2026, 10:43 AM |
 | 0.9.0 | 13 Oct 2026, 1:41 AM |
 | 0.8.1 | 12 Oct 2026, 11:36 PM |
 | 0.8.0 | 12 Oct 2026, 4:14 PM |
@@ -41,7 +42,6 @@ These links always give the newest version. Every download's checksum is in `SHA
 | 0.6.0 | 11 Oct 2026, 9:16 AM |
 | 0.5.5 | 10 Oct 2026, 10:21 PM |
 | 0.5.4 | 8 Oct 2026, 11:24 PM |
-| 0.5.3 | 5 Oct 2026, 10:24 PM |
 
 The newest is at the top, with when it came out (Melbourne time). When a newer version than yours is out,
 REPley Ride says so on its start screen, with a link back here.
@@ -62,26 +62,41 @@ REPley Ride says so on its start screen, with a link back here.
 
 **Linux: Arch and Omarchy**
 
-Add the REPley Ride repository once, then install it like any other package. It appears in the app menu, and
-`sudo pacman -Syu` updates it with everything else.
+Add the REPley Ride repository once, then install it like any other package. It appears in the app menu.
+
+On Omarchy, which takes system updates only through `omarchy update`:
 
 ```bash
-sudo tee -a /etc/pacman.conf >/dev/null <<'EOF'
+grep -q '^\[repley-ride\]' /etc/pacman.conf || sudo tee -a /etc/pacman.conf >/dev/null <<'EOF'
 
 [repley-ride]
 SigLevel = Optional TrustAll
 Server = https://github.com/Matt-Crofts/repley-ride-releases/releases/latest/download
 EOF
-sudo pacman -Sy repley-ride-bin
+omarchy update && sudo pacman -S repley-ride-bin
 ```
+
+On other Arch:
+
+```bash
+grep -q '^\[repley-ride\]' /etc/pacman.conf || sudo tee -a /etc/pacman.conf >/dev/null <<'EOF'
+
+[repley-ride]
+SigLevel = Optional TrustAll
+Server = https://github.com/Matt-Crofts/repley-ride-releases/releases/latest/download
+EOF
+sudo pacman -Syu repley-ride-bin
+```
+
+After that, REPley Ride updates with your normal system update (`omarchy update` on Omarchy).
 
 The packages are built from a public recipe (`repley-ride-bin-recipe.tar.gz` on each release) and are not signed
 yet, which is what the `SigLevel` line allows for.
 
 **Other Linux**
-1. Make the file runnable: in a terminal, `chmod +x ~/Downloads/REPley-Ride-linux.AppImage`
-   (or in your file manager: Properties, then allow it to run as a program).
-2. Open it.
+1. Make the file runnable: in your file manager, right-click it, choose **Properties**, and turn on the option to run
+   it as a program. Or in a terminal: `chmod +x ~/Downloads/REPley-Ride-linux.AppImage`
+2. Double-click it to open.
 
 ## 3. Sign in
 
