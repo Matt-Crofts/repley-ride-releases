@@ -10,6 +10,14 @@ merged and not yet released; a release names `## Next` as its version. Keep each
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.9.2
+
+- **No more "Sending to Strava" for good:** if REPley can't send your ride to Strava, the summary says why, and it
+  keeps checking for a few minutes while Strava takes the ride.
+- **The ride card has a Data switch too,** and with only a few pictures they show bigger. The card shows heart rate
+  only if it goes to Strava.
+- No more "The trainer did not take wind" on screen up a climb: a missed wind update leaves the hill as it was.
+
 ## 0.9.1
 
 - **Pictures with or without your numbers:** each screenshot on the Save panel has a Data switch. On, the course and
