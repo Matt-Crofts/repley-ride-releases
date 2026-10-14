@@ -10,6 +10,25 @@ merged and not yet released; a release names `## Next` as its version. Keep each
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.10.0
+
+- **40/20s join the library, and VO2max sessions sort into short and long intervals:** the Workouts page says what each shape is for and what the studies found, and 40/20s ride the 30/15 rhythm with longer efforts, marked as based on the studied protocol, not the protocol itself.
+
+- **Sunsets and sunrises:** on the real roads, choose the sun on the start page: Day, or Sunset (the golden hour, the sun setting at its real pace until it hangs on the horizon) or Sunrise; the light warms and the shadows stretch as you ride, and the menu says how long to sunset.
+- **The Black Rock clock tower, the sailing clubs and a tram:** the clock tower on its roundabout, every yacht and sailing club as a clubhouse with its flagpole and boats, and the old green tram shuttling along the Esplanade above Luna Park, all built as models.
+- **Palms on the foreshore and a smooth shoreline:** the short fat palms of St Kilda's foreshore along Beach Road and round Luna Park's gate, and the water's edge a curve rather than the map's straight runs.
+- **Hero pieces as models:** Luna Park's gate, Albert Park's pit building, the pavilion restaurant on the St Kilda foreshore and the Brighton bathing boxes are proper models now, built in Blender, in place of the shapes drawn in code.
+- **Albert Park is parkland:** the lake with swans on it, lawns and trees instead of made-up houses, and the circuit dressed as a race track: red and white kerbs on the bends, gravel traps outside the sharp ones, the pit building, the grandstand and the start-finish gantry on the main straight. The junctions no longer show both roads' lines across them, and the prompt's arrows are big round badges.
+- **Choosing your way at a junction:** the ways out are buttons on the prompt, so a mouse or a touch screen picks one as the arrow keys and the pad's left and right do; and a U-turn on Beach Road now turns the road round under you, so the junction you came through is offered again on the way back.
+- **A drone camera:** a sixth view (key C), high and slow behind the rider, drifting across; and the helicopter now flies over the buildings as well as the hills, so it never passes through a block of flats.
+- **Beach Road is an arterial:** kerb and gutter both sides with a nature strip, the bay trail along the foreshore, a sea wall where the coast comes to the road, bus stops, and driveways and hedges on the houses; no more gravel shoulders and country guide posts.
+- **Beach Road is a suburb now:** the streets from the map either side of the road with kerbs, footpaths and street trees, houses on every lot (the map's where it has them, our own along the streets where it does not, most of them Bayside's modern white ones with big windows and high walls), and roofs rather than grass to the horizon.
+- **Every slot of the locker in view on a laptop:** on a small screen the seven slots go across the top, the rider small beside the open slot's items, so nothing on Your rider is below the fold; a long list of kits scrolls inside its own panel.
+- **Quit from the side panel:** a Quit REPley Ride button under Full screen, so there is a way out between rides, not only after one.
+- **The first KICKR and SNAP ride over Bluetooth:** a Wahoo trainer whose firmware has no FTMS is driven with Wahoo's own control, found and remembered on its first connect, so it needs no firmware update and no ANT+ stick.
+- **Wi-Fi and Ethernet trainers connect:** a KICKR v6, KICKR CORE 2, Elite Justo 2 or Avanti, JetBlack Victory, or a KICKR with the Direct Connect dongle, on the same network as your computer is found beside Bluetooth and ridden the same way.
+- **Beach Road, the first Melbourne area, in beta:** real roads from St Kilda to Mordialloc with the Albert Park lap off the junction, chosen under Melbourne on the course picker; the arrows pick your way at each junction, and the four Strava segments are timed where they are. First pass of the scenery.
+
 ## 0.9.4
 
 - **Save ride is always in view:** the Save panel never grows taller than the screen, however many pictures a ride
