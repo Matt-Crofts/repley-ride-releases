@@ -31,7 +31,8 @@ These links always give the newest version. Every download's checksum is in `SHA
 
 | Version | Released |
 |---|---|
-| **0.10.0** (newest) | 15 Oct 2026, 9:13 AM |
+| **0.11.0** (newest) | 15 Oct 2026, 5:32 PM |
+| 0.10.0 | 15 Oct 2026, 9:13 AM |
 | 0.9.4 | 13 Oct 2026, 11:53 PM |
 | 0.9.3 | 13 Oct 2026, 7:58 PM |
 | 0.9.2 | 13 Oct 2026, 2:58 PM |
@@ -110,7 +111,7 @@ account is how the beta knows you: use the same email on each computer.
 
 1. On **Your rider**, set your weight, then pedal to wake your trainer and choose it. Choose your
    heart-rate strap too, if you have one, and wet its electrodes before you ride.
-2. Click **Next**, then **Start ride**. No trainer to hand? **Ride with the simulator** to look around.
+2. Click **Next**, then **Start ride**. No trainer to hand? The eye beside Start rides it with the simulator, to look around.
 3. During a ride, press **?** to see the keys.
 
 Close Zwift, the Wahoo app or any other training app first: only one app at a time can control the
