@@ -10,12 +10,37 @@ merged and not yet released; a release names `## Next` as its version. Keep each
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
-## Next
+## 0.11.0
+
+- **Your program:** Today is now Your program, and every ride page opens with a small strip: the week you're in, the days done, your next session and your goal, one press from riding it. The summary says whether a ride counted for a plan day or was an extra ride.
+- **Swap a session for a similar one:** on Your program, or from the strip on any ride page, swap the day's workout for one of the same type with about the same hard work, often shorter (30/15s for a Norwegian 4 × 4, nine minutes less). It counts for the day; your plan stays as it is.
+- **Extra rides count where you look:** a ride on top of your plan shows on Your program beside the week's days, in its own colour, and the strip counts it.
+- **Program complete:** when the last week is ridden, Your program says so and offers your next block, or a new goal.
+- **Every day rides indoors:** a day planned as an outdoor ride says so and offers Ride it indoors, which still counts it done.
+- **Choosing a ride is simpler:** Melbourne is a world of its own on the Free ride page, with Beach Road and the Albert Park circuit as separate courses that each loop by themselves (steer off at any junction with the arrow keys), and Beach Road is ready when you open the page.
+- **Where you ride, the same everywhere:** Your program, Workouts and Pace partner choose the course in the same dialog, now tall enough to show the courses in a grid.
+- **Where you ride in groups:** the course dialog's All shows Melbourne, Climbs, Chill rides and Your routes under their own headings.
+- **Follow a study:** the studied interval protocols as blocks of sessions in the study's order and dose, with where you are and your heart rate in the hard parts session by session.
+- **The trainer keeps going when Bluetooth drops:** if the trainer's link has been down 5 seconds while you pedal, the ride reaches it over the other radio (Bluetooth or ANT+) without stopping, and goes back to the first if it answers first. A drop you can't feel says nothing; a trainer asleep while you're paused just says so. You can also switch it yourself from Devices (H), with a confirm.
+- **Speed, average speed and cadence:** power, heart rate and speed are the big numbers now, with your average speed under your speed, and the gradient pops up by itself on a hill steeper than 3%.
+- **Descents feel like Zwift's:** a descent goes to the trainer at half its grade before the road feel, so 100% is never a freewheel; climbs are unchanged.
+- **A smaller bar and menu:** the bar stays on one row on any screen, with a HUD button for the numbers, Finish asks above it, and the menu has only what the bar doesn't.
+- **The keys work with a video open:** C, M and the rest reach the ride while YouTube has the keyboard, except when you're typing in it; the keys list now has P for a screenshot.
+- **Signed in once on Linux:** on Omarchy and other Hyprland or Sway desktops the app keeps your sign-in in the keyring, so it no longer asks for a code every launch.
+- **Melbourne fixes:** wheels sit on the road at junctions instead of sinking into them, nothing stands on the roads, kookaburras perch on lamps, benches and bus shelters instead of in mid-air, proper slatted park benches, a smooth Albert Park lake shore, and a drone camera that chases close behind and swings side to side.
+- **Finish is never under the climb profile:** on a smaller screen the ride bar tightens a step at a time (words to icons, then the buttons the menu also has) instead of running under the profile, so Pause and Finish can always be pressed.
+- **Melbourne rides keep their name:** the summary, the share picture and Your rides say Beach Road or Albert Park circuit, not Mountain climb.
+- **One button for the sun and the sky:** the sun matches your clock (sunrise early, golden hour from 4 pm) and the sky mixes itself up each ride unless you pick one. ERG and road feel sit beside the goal.
+- **Fits in and New to me:** one filter for the time you have, a tick on every course you have ridden, and New to me to hide them.
+- **Where each workout comes from:** each one says plainly whether it is as studied, from a study, or a coach's pick.
+- **One pace control:** Pace partner's pace goes slower or faster a quarter of a W/kg at a time, with the five bands under it.
+- **Small screens and controllers:** on a short screen the side menu becomes icons and your rider stays in view; the arrow keys or a controller move about the start pages, B or Backspace goes back, and Start starts the ride.
 
 ## 0.10.0
 
 - **40/20s join the library, and VO2max sessions sort into short and long intervals:** the Workouts page says what each shape is for and what the studies found, and 40/20s ride the 30/15 rhythm with longer efforts, marked as based on the studied protocol, not the protocol itself.
 - **Sunsets and sunrises:** on the real roads, choose the sun on the start page: Day, or Sunset (the golden hour, the sun setting at its real pace until it hangs on the horizon) or Sunrise; the light warms and the shadows stretch as you ride, and the menu says how long to sunset.
+- **Albert Park's light towers, a footbridge over the pit straight, and a more varied city skyline:** the circuit's floodlight poles in place of radio masts, a footbridge over the straight, and towers of different glass with spires and setbacks on the horizon.
 - **The Black Rock clock tower, the sailing clubs and a tram:** the clock tower on its roundabout, every yacht and sailing club as a clubhouse with its flagpole and boats, and the old green tram shuttling along the Esplanade above Luna Park, all built as models.
 - **Palms on the foreshore and a smooth shoreline:** the short fat palms of St Kilda's foreshore along Beach Road and round Luna Park's gate, and the water's edge a curve rather than the map's straight runs.
 - **Hero pieces as models:** Luna Park's gate, Albert Park's pit building, the pavilion restaurant on the St Kilda foreshore and the Brighton bathing boxes are proper models now, built in Blender, in place of the shapes drawn in code.
