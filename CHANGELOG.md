@@ -10,6 +10,27 @@ merged and not yet released; a release names `## Next` as its version. Keep each
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.12.0
+
+- **Only trainers are trainers:** the search for Wi-Fi and wired trainers no longer counts an Apple TV, a speaker or a printer announcing itself on your network as a trainer; nothing about those devices is kept, logged or offered as a choice.
+- **See what you've done:** on Your program a done day turns green with a tick and says what you did: the ride's time, distance and average power, or each exercise's sets followed along here; the week shows as a ring with your time and kilometres, a short celebration greets each new session once, and a finished week or program gets a bigger one.
+- **Every day in the program strip:** the strip at the top of each ride page showed only its gym days and extra rides; every day now shows, ticked when done.
+- **Junctions you can read from the sofa:** the ways out sit side by side, left to right as the roads go, so ← and → (or the D-pad) move along them; the way you'll take is filled in teal with a tick and the others dimmed, the light slides as you pick, and a click or a tap on a way now picks it.
+- **See your controller connect:** plugging in or turning on a controller mid-ride says so for 8 seconds, with what its buttons do, says so again if it goes, and a controller mark sits on the Devices button while one is connected.
+- **Melbourne rides never freeze:** on a long ride the picture stopped where the road had been built to at the start while the clock, distance and map went on; the world now follows you however far you ride.
+- **Lighter long rides in Melbourne:** the ride no longer builds road thousands of kilometres ahead as it goes, which slowed the app the longer you rode.
+- **St Kilda is a simple fork:** the junction sits on the foreshore road, so Beach Road and Beaconsfield Parade run straight through it and Fitzroy Street turns off to Albert Park; no more riding up a short road to a roundabout and back before heading down Beach Road, and no swinging towards the road you didn't take.
+- **Ride on to Port Melbourne:** Beaconsfield Parade now runs 4 km along the bay to Station Pier, with the beach, the palms and the city skyline beside it, and turns on a loop there; pick Port Melbourne as a course of its own, or ride straight on through St Kilda from Beach Road.
+- **Smoother turns at every Melbourne junction:** whichever way you go through a junction, you ride one smooth curve on to the next road, with no jump or wobble on the way.
+- **Out of St Kilda the way a rider goes:** Beach Road heads straight down Jacka Boulevard, with the tram above on The Esplanade, instead of going up Beaconsfield Parade and doubling back; it no longer circles the Black Rock clock tower's roundabout, and Fitzroy Street's shops stand beside Fitzroy Street.
+- **Room to pass:** other riders coming past step aside from where you are on the road, so shoulders and arms no longer overlap.
+- **A steadier rider's-eye view:** the head rocks a third as much as you pedal, so climbing slowly the road no longer bumps with every stroke.
+- **The map's arrow turns with you:** after a U-turn, and riding back along Beach Road, the arrow points the way you're going instead of backwards.
+- **A U-turn on a turning loop does nothing:** at the end of a road, where the loop is already turning you round, U-turn no longer sends you riding backwards.
+- **Wi-Fi and wired trainers without Bluetooth:** a Direct Connect trainer on Wi-Fi or Ethernet is found and ridden on a computer with no Bluetooth, or with Bluetooth off, and the app says Bluetooth is missing while it keeps looking on your network.
+- **Network, not Bluetooth:** a Direct Connect trainer shows as Network (Wi-Fi or Ethernet) with its own mark in the devices panel, setup and Edit rider, and a switch back from ANT+ says "Back on Network".
+- **Add a trainer by its address:** if your Wi-Fi or wired trainer doesn't show (guest Wi-Fi and some routers hide it), add it by its IP address under the trainer list; it's remembered and connects directly next time.
+
 ## 0.11.0
 
 - **Your program:** Today is now Your program, and every ride page opens with a small strip: the week you're in, the days done, your next session and your goal, one press from riding it. The summary says whether a ride counted for a plan day or was an extra ride.
