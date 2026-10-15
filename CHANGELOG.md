@@ -10,10 +10,11 @@ merged and not yet released; a release names `## Next` as its version. Keep each
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## Next
+
 ## 0.10.0
 
 - **40/20s join the library, and VO2max sessions sort into short and long intervals:** the Workouts page says what each shape is for and what the studies found, and 40/20s ride the 30/15 rhythm with longer efforts, marked as based on the studied protocol, not the protocol itself.
-
 - **Sunsets and sunrises:** on the real roads, choose the sun on the start page: Day, or Sunset (the golden hour, the sun setting at its real pace until it hangs on the horizon) or Sunrise; the light warms and the shadows stretch as you ride, and the menu says how long to sunset.
 - **The Black Rock clock tower, the sailing clubs and a tram:** the clock tower on its roundabout, every yacht and sailing club as a clubhouse with its flagpole and boats, and the old green tram shuttling along the Esplanade above Luna Park, all built as models.
 - **Palms on the foreshore and a smooth shoreline:** the short fat palms of St Kilda's foreshore along Beach Road and round Luna Park's gate, and the water's edge a curve rather than the map's straight runs.
