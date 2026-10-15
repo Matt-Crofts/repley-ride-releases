@@ -31,7 +31,7 @@ These links always give the newest version. Every download's checksum is in `SHA
 
 | Version | Released |
 |---|---|
-| **0.10.0** (newest) | 15 Oct 2026, 9:04 AM |
+| **0.10.0** (newest) | 15 Oct 2026, 9:13 AM |
 | 0.9.4 | 13 Oct 2026, 11:53 PM |
 | 0.9.3 | 13 Oct 2026, 7:58 PM |
 | 0.9.2 | 13 Oct 2026, 2:58 PM |
@@ -41,7 +41,6 @@ These links always give the newest version. Every download's checksum is in `SHA
 | 0.8.0 | 12 Oct 2026, 4:14 PM |
 | 0.7.2 | 11 Oct 2026, 9:39 PM |
 | 0.7.1 | 11 Oct 2026, 8:25 PM |
-| 0.7.0 | 11 Oct 2026, 6:47 PM |
 
 The newest is at the top, with when it came out (Melbourne time). When a newer version than yours is out,
 REPley Ride says so on its start screen, with a link back here.
@@ -54,10 +53,14 @@ REPley Ride says so on its start screen, with a link back here.
 3. When REPley Ride asks to use Bluetooth, click **Allow**.
 
 **Windows**
-1. Open the downloaded file. While REPley Ride is new, Windows may say it protected your PC. Click
+1. If Edge holds the download and says the file "isn't commonly downloaded", open Edge's downloads (the arrow at
+   the top right, or Ctrl+J), click the three dots beside REPley-Ride-windows.exe, then **Keep**, then **Show more**
+   and **Keep anyway**. Until you do, the file sits in Downloads as "Unconfirmed ... .crdownload".
+2. Open the downloaded file. While REPley Ride is new, Windows may say it protected your PC. Click
    **More info**, check the publisher reads **Chain Brothers Pty Ltd**, then click **Run anyway**.
-   REPley Ride installs and opens.
-2. Make sure Bluetooth is on in Settings, Bluetooth & devices. Windows has had the least testing so
+   REPley Ride installs and opens. You do this once: later versions come through the app itself, which fetches and
+   installs them with one click on its start screen, with no browser and no warning in the way.
+3. Make sure Bluetooth is on in Settings, Bluetooth & devices. Windows has had the least testing so
    far, so tell us how it goes.
 
 **Linux: Arch and Omarchy**
