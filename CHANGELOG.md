@@ -11,9 +11,16 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
-## 0.13.1
+## 0.14.0
 
 - **Gears you feel when you press:** a shift reaches the trainer within a quarter second instead of waiting up to a second behind the road, and over ANT+ the whole gear arrives at once, where on a rolling road its air resistance, most of a gear's feel on the flat, could wait many seconds; untested on hardware.
+- **The vented helmet for everyone:** every rider starts in the vented road helmet; the aero helmet, aero socks and the Everest aero suit are earned by riding (1,000 km, 500 km and Everest), and each saves only a few watts at speed, as in real life, so racing friends stays fair.
+- **A trimmer rider:** narrower shoulders, smoother hips through the pedal stroke, ribbed socks, a calmer hairstyle and helmet vents you can't see through.
+- **A tidier locker:** gear is grouped by rarity, commons first.
+- **Meet Cranko and Gearia:** the robot pace partners are two characters now, picked by name under Robot coach. Cranko is a cream tin can with chainring ears, a two-lens goggle, sleepy teal eyes and a chainring grin; Gearia is cream and red, with happy pink eyes, a grin and a red ponytail. Both are plainly machines from the waist down.
+- **Your partner's watts on its back:** a pace partner shows its live watts under the REPley lettering, where you see it from its wheel.
+- **Pace bands at a glance:** a pace partner's goggle frame (Cranko) or visor rim (Gearia) wears its band's colour, the same as its tag.
+- **A friendlier female rider:** her face is new, softer and smiling.
 - **Port Phillip's own water:** the open bay is a muted grey-green-blue with a breeze on it, its reflections softened and broken up by the ripples, the turquoise kept for the shallows by the beaches; the harbours are calmer, never glass, and the sunset still lays a glittering path across it.
 - **A hazy horizon over the bay:** the sea fades into the sky with no hard line, and the city and the far shore fade softly into the haze.
 - **Softer clouds:** no more bright outline round every cloud; a silver lining shows only on the clouds right by the sun.
