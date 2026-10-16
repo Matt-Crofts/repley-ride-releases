@@ -11,7 +11,7 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
-## 0.13.0
+## 0.13.1
 
 - **Gears you feel when you press:** a shift reaches the trainer within a quarter second instead of waiting up to a second behind the road, and over ANT+ the whole gear arrives at once, where on a rolling road its air resistance, most of a gear's feel on the flat, could wait many seconds; untested on hardware.
 - **Port Phillip's own water:** the open bay is a muted grey-green-blue with a breeze on it, its reflections softened and broken up by the ripples, the turquoise kept for the shallows by the beaches; the harbours are calmer, never glass, and the sunset still lays a glittering path across it.
@@ -20,6 +20,11 @@ care about, with a **bold lead** where it has one: the app's update line names t
 - **A road with some wear:** the tarmac has fine stones, the odd repair patch and a few sealed cracks, the kerbs are weathered concrete, and the grass strip beside them looks mown, with dry patches and fallen gum leaves.
 - **Melbourne all the way to the horizon:** past the streets you ride, the land is suburbs, rooftops on rooftops, not green fields.
 - **The ferry's funnel on its ship:** Station Pier's ferry has its funnel standing on the deck, not floating above it.
+- **Streets with character:** the houses along the bay come in cream, sage, blue-grey and brick with verandahs and pitched roofs, the street gums have real leaning trunks and forking branches, the palms' fronds arch and droop, and the roadside grass grows in tufts.
+- **A rider who sits like a cyclist:** a long, even back on the bike instead of a hollow at the waist, the belly drawn in, a smaller crown, and helmets that hug the head with a flatter top instead of an egg over the neck.
+- **Rides with life in them:** the hips roll gently with each pedal stroke, the shoulders follow, the head stays level and you can see the breathing when the effort rises.
+- **More of you in the rider builder:** twelve skin tones, warmer at the knees, elbows and cheeks, and kit with a real knit, ribbed socks and mesh gloves.
+- **Robot pacers with personality:** each in its own kit, working harder up the climbs and easing off down the other side, their faces showing it.
 - **A smooth ride home along the bay:** riding back towards St Kilda costs about a quarter of what it did to draw (8 ms a frame where it was 28 on a fast PC), so laptops and TVs keep their frame rate; the bay's reflection, far trees, signs and Luna Park no longer cost frames from kilometres away, and the trees fade out on the horizon rather than popping.
 - **Shallows and a lapping edge:** the bay is a lighter aqua over the sand near the beach, with a pale band washing at the water's edge.
 - **Wheels on the road at Port Melbourne:** the turning loop at Station Pier no longer rises through your wheels; the ground under it is flat, the street that crossed it and the palm that stood in it are gone, and both end loops lift you smoothly on to the roundabout.
