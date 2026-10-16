@@ -6,9 +6,34 @@ What changed in REPley Ride, the app on your computer, newest first.
 For us, not riders: REPley Ride's own changelog, separate from REPley's (the coaching platform). The release
 workflow publishes each version's section as its release notes, which the app shows when that version is ready,
 and this whole file beside the download page. Each section starts `## <version>`, with `## Next` for what is
-merged and not yet released; a release names `## Next` as its version. Keep each entry to one line a rider would
+merged and not yet released; a release names `## Next` as its version. A pull request never writes here: it adds a file
+in docs/beta/next/ (see its README), which the release gathers under Next, so pull requests never conflict. Keep each entry to one line a rider would
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
+
+## 0.13.0
+
+- **Gears you feel when you press:** a shift reaches the trainer within a quarter second instead of waiting up to a second behind the road, and over ANT+ the whole gear arrives at once, where on a rolling road its air resistance, most of a gear's feel on the flat, could wait many seconds; untested on hardware.
+- **Port Phillip's own water:** the open bay is a muted grey-green-blue with a breeze on it, its reflections softened and broken up by the ripples, the turquoise kept for the shallows by the beaches; the harbours are calmer, never glass, and the sunset still lays a glittering path across it.
+- **A hazy horizon over the bay:** the sea fades into the sky with no hard line, and the city and the far shore fade softly into the haze.
+- **Softer clouds:** no more bright outline round every cloud; a silver lining shows only on the clouds right by the sun.
+- **A road with some wear:** the tarmac has fine stones, the odd repair patch and a few sealed cracks, the kerbs are weathered concrete, and the grass strip beside them looks mown, with dry patches and fallen gum leaves.
+- **Melbourne all the way to the horizon:** past the streets you ride, the land is suburbs, rooftops on rooftops, not green fields.
+- **The ferry's funnel on its ship:** Station Pier's ferry has its funnel standing on the deck, not floating above it.
+- **A smooth ride home along the bay:** riding back towards St Kilda costs about a quarter of what it did to draw (8 ms a frame where it was 28 on a fast PC), so laptops and TVs keep their frame rate; the bay's reflection, far trees, signs and Luna Park no longer cost frames from kilometres away, and the trees fade out on the horizon rather than popping.
+- **Shallows and a lapping edge:** the bay is a lighter aqua over the sand near the beach, with a pale band washing at the water's edge.
+- **Wheels on the road at Port Melbourne:** the turning loop at Station Pier no longer rises through your wheels; the ground under it is flat, the street that crossed it and the palm that stood in it are gone, and both end loops lift you smoothly on to the roundabout.
+- **Real bay beaches:** the beaches along Beaconsfield Parade, St Kilda and Beach Road slope gently out of the water, pale sand with a darker wet band at the water's edge, instead of a raised grass bank ending in a step; no grass patches in the sea, no trees or tufts on the sand.
+- **A tidy sea wall:** the low wall runs in one piece along the bay trail where the sand comes up to it, its top level, instead of in broken lengths on the water's edge; side streets meet Beach Road's kerb instead of stopping short in the grass.
+- **The Port Melbourne loop:** ride out along Beaconsfield Parade, round Station Pier's gatehouse on the pier itself, with the Bass Strait ferry at her berth and the old sheds down the pier, and home along the Bay Trail by the beach; no more turning round on a roundabout at Port Melbourne.
+- **St Kilda harbour and its pier:** the way home comes round Pier Road past the yacht squadron's marina, full of moored yachts, and out along St Kilda Pier's timber boards to the kiosk at its end, where you turn on the pier's round.
+- **Fairy penguins:** St Kilda's little penguins stand in little groups on the breakwater's low rocks beside the last of the pier, white fronts to you as you ride by, waddling from rock to rock, preening, stretching a flipper and turning to watch you go; a few swim by the rocks, and at sunset more of them come ashore.
+- **Piers, breakwaters and marinas all along the bay:** every pier and jetty on Beach Road stands on its piles, the breakwaters and groynes are tumbled granite armour stones a metre or two across, and the marinas are full of boats.
+- **The Middle Park loop:** a new course up Beaconsfield Parade, inland up Kerferd Road, down Canterbury Road beside the light rail and down Fitzroy Street to St Kilda, about 6.4 km a lap; at Middle Park you can turn up Kerferd Road on any ride, and at Canterbury Road choose St Kilda or Albert Park.
+- **St Kilda Pier's boards:** the deck is laid in weathered planks butted end to end with their bolts, and the rail runs on a rhythm of posts with a mid rail.
+- **Port Phillip's own colour:** the open bay is a softer grey-green, with the aqua kept for the shallows over the sand.
+- **Choose your way home:** at St Kilda beach and St Kilda Pier the junction prompt offers the foreshore to Station Pier, out along the pier, or on along Beach Road and Jacka Boulevard; at Station Pier the road simply carries on, with nothing to choose.
+- **No more green islands in the bay:** small mounds of grass that stood out of the water 200 m off the shore are gone.
 
 ## 0.12.0
 
