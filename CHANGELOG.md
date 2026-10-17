@@ -11,10 +11,21 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.14.2
+
+- **Legs that turn on every trainer:** if your trainer sends power but no cadence, your rider pedals at a rate that fits your power. The ride offers to add a Bluetooth or ANT+ cadence sensor, once, and remembers if you say no.
+- **Legs that stay whole at the hips:** the rider's thighs and bib shorts no longer tear or bulge at the buttocks at some points of the pedal stroke. The hips now turn smoothly through the whole circle.
+- **A start card that tells the truth:** a Melbourne ride now names its area, and shows one lap's distance and climbing (a ride with no lap, like Beach Road, says "Ride as far as you like"). Before, it showed the length of road built ahead and called it a made-up climb.
+- **A smoother profile:** the course profile on the start card is a gentle curve, and a flat road no longer counts small bumps in the data as climbing.
+- **Simulator rides skip the strap search:** the start card says it is loading the course, not connecting, and no heart-rate strap is looked for.
+- **Melbourne loads about a third faster:** the Port Melbourne loop builds in 15 seconds here instead of 23, and Ultra in 18 instead of 27.
+- **A road helmet that looks like one:** the helmet sits lower and longer, with deep vents between solid ridges and dark foam showing through them. Skin shows fine pores and shoes a leather grain in close-ups, and the women's hair is drawn back off the face.
+- **A note when a sign-in ends:** the app now keeps a short log of when your REPley sign-in was renewed or ended, and why, in a session-log.txt beside your account file. It never holds your password or sign-in code.
+
 ## 0.14.1
 
 - **Steadier power on screen:** choose each second, a 3 s or a 5 s average under Rider. New riders start on 3 s. Recording and uploads keep every second.
-- **Melbourne's roads at surveyed heights:** Beach Road and nearby roads follow Victoria's 1 m contour survey. The false 12% blips at Black Rock are gone and the real pinches stay. Against real Strava rides, grade is within 0.5% over any 500 m.
+- **Melbourne's roads at surveyed heights:** Beach Road and nearby roads now follow surveyed heights. The false 12% blips at Black Rock are gone and the real pinches stay. Against real Strava rides, grade is within 0.5% over any 500 m.
 - **Your partner's pace on its back:** a pace partner shows the W/kg it holds, steady, up hills and down, the same as its tag.
 - **Robots in bib shorts:** the pace robots' hips are graphite like cycling shorts, and their heads a little smaller.
 - **Willunga Hill from LiDAR:** its road now follows South Australia's 2022 laser survey, accurate to a few centimetres. It measures 3.04 km at 7.4% with 224 m of climbing, matching the published figures.
