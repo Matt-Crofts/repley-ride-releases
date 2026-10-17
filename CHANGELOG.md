@@ -11,117 +11,131 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.14.1
+
+- **Steadier power on screen:** choose each second, a 3 s or a 5 s average under Rider. New riders start on 3 s. Recording and uploads keep every second.
+- **Melbourne's roads at surveyed heights:** Beach Road and nearby roads follow Victoria's 1 m contour survey. The false 12% blips at Black Rock are gone and the real pinches stay. Against real Strava rides, grade is within 0.5% over any 500 m.
+- **Your partner's pace on its back:** a pace partner shows the W/kg it holds, steady, up hills and down, the same as its tag.
+- **Robots in bib shorts:** the pace robots' hips are graphite like cycling shorts, and their heads a little smaller.
+- **Willunga Hill from LiDAR:** its road now follows South Australia's 2022 laser survey, accurate to a few centimetres. It measures 3.04 km at 7.4% with 224 m of climbing, matching the published figures.
+
 ## 0.14.0
 
-- **Gears you feel when you press:** a shift reaches the trainer within a quarter second instead of waiting up to a second behind the road, and over ANT+ the whole gear arrives at once, where on a rolling road its air resistance, most of a gear's feel on the flat, could wait many seconds; untested on hardware.
-- **The vented helmet for everyone:** every rider starts in the vented road helmet; the aero helmet, aero socks and the Everest aero suit are earned by riding (1,000 km, 500 km and Everest), and each saves only a few watts at speed, as in real life, so racing friends stays fair.
-- **A trimmer rider:** narrower shoulders, smoother hips through the pedal stroke, ribbed socks, a calmer hairstyle and helmet vents you can't see through.
+- **The vented helmet for everyone:** everyone starts in the vented road helmet. The aero helmet (1,000 km), aero socks (500 km) and Everest suit are earned, saving a few watts to keep racing fair.
+- **A trimmer rider:** narrower shoulders, smoother hips through the pedal stroke, ribbed socks, a calmer hairstyle, and helmet vents you can't see through.
 - **A tidier locker:** gear is grouped by rarity, commons first.
-- **Meet Cranko and Gearia:** the robot pace partners are two characters now, picked by name under Robot coach. Cranko is a cream tin can with chainring ears, a two-lens goggle, sleepy teal eyes and a chainring grin; Gearia is cream and red, with happy pink eyes, a grin and a red ponytail. Both are plainly machines from the waist down.
+- **Meet Cranko and Gearia:** the robot pace partners are two characters now, picked by name under Robot coach. Cranko is a cream tin can with chainring ears and teal eyes. Gearia is cream and red, with a red ponytail.
 - **Your partner's watts on its back:** a pace partner shows its live watts under the REPley lettering, where you see it from its wheel.
 - **Pace bands at a glance:** a pace partner's goggle frame (Cranko) or visor rim (Gearia) wears its band's colour, the same as its tag.
 - **A friendlier female rider:** her face is new, softer and smiling.
-- **Port Phillip's own water:** the open bay is a muted grey-green-blue with a breeze on it, its reflections softened and broken up by the ripples, the turquoise kept for the shallows by the beaches; the harbours are calmer, never glass, and the sunset still lays a glittering path across it.
-- **A hazy horizon over the bay:** the sea fades into the sky with no hard line, and the city and the far shore fade softly into the haze.
-- **Softer clouds:** no more bright outline round every cloud; a silver lining shows only on the clouds right by the sun.
-- **A road with some wear:** the tarmac has fine stones, the odd repair patch and a few sealed cracks, the kerbs are weathered concrete, and the grass strip beside them looks mown, with dry patches and fallen gum leaves.
-- **Melbourne all the way to the horizon:** past the streets you ride, the land is suburbs, rooftops on rooftops, not green fields.
-- **The ferry's funnel on its ship:** Station Pier's ferry has its funnel standing on the deck, not floating above it.
-- **Streets with character:** the houses along the bay come in cream, sage, blue-grey and brick with verandahs and pitched roofs, the street gums have real leaning trunks and forking branches, the palms' fronds arch and droop, and the roadside grass grows in tufts.
-- **A rider who sits like a cyclist:** a long, even back on the bike instead of a hollow at the waist, the belly drawn in, a smaller crown, and helmets that hug the head with a flatter top instead of an egg over the neck.
+
+## 0.13.1
+
+- **Streets with character:** the houses come in cream, sage, blue-grey and brick, with verandahs and pitched roofs. The street gums lean, the palms' fronds arch, and the grass grows in tufts.
+- **A rider who sits like a cyclist:** a long, even back on the bike, the belly drawn in, helmets that hug the head with a flatter top.
 - **Rides with life in them:** the hips roll gently with each pedal stroke, the shoulders follow, the head stays level and you can see the breathing when the effort rises.
 - **More of you in the rider builder:** twelve skin tones, warmer at the knees, elbows and cheeks, and kit with a real knit, ribbed socks and mesh gloves.
 - **Robot pacers with personality:** each in its own kit, working harder up the climbs and easing off down the other side, their faces showing it.
-- **A smooth ride home along the bay:** riding back towards St Kilda costs about a quarter of what it did to draw (8 ms a frame where it was 28 on a fast PC), so laptops and TVs keep their frame rate; the bay's reflection, far trees, signs and Luna Park no longer cost frames from kilometres away, and the trees fade out on the horizon rather than popping.
+
+## 0.13.0
+
+- **Gears you feel when you press:** a shift reaches the trainer within a quarter second, and over ANT+ the whole gear arrives at once. Not yet tested on every trainer.
+- **Port Phillip's own water:** the open bay is a muted grey-green-blue with a breeze on it, the turquoise kept for the shallows. The harbours are calmer, and the sunset lays a glittering path.
+- **A hazy horizon over the bay:** the sea fades into the sky with no hard line, and the city and the far shore fade softly into the haze.
+- **Softer clouds:** no more bright outline round every cloud. A silver lining shows only on the clouds right by the sun.
+- **A road with some wear:** fine stones in the tarmac, the odd repair patch and sealed crack, weathered concrete kerbs, and a mown grass strip with dry patches and fallen gum leaves.
+- **Melbourne all the way to the horizon:** past the streets you ride, the land is suburbs, rooftops on rooftops, not green fields.
+- **The ferry's funnel on its ship:** Station Pier's ferry has its funnel standing on the deck, not floating above it.
+- **A smooth ride home along the bay:** riding back towards St Kilda no longer drops frames on laptops and TVs, and distant trees fade out instead of popping into view.
 - **Shallows and a lapping edge:** the bay is a lighter aqua over the sand near the beach, with a pale band washing at the water's edge.
-- **Wheels on the road at Port Melbourne:** the turning loop at Station Pier no longer rises through your wheels; the ground under it is flat, the street that crossed it and the palm that stood in it are gone, and both end loops lift you smoothly on to the roundabout.
-- **Real bay beaches:** the beaches along Beaconsfield Parade, St Kilda and Beach Road slope gently out of the water, pale sand with a darker wet band at the water's edge, instead of a raised grass bank ending in a step; no grass patches in the sea, no trees or tufts on the sand.
-- **A tidy sea wall:** the low wall runs in one piece along the bay trail where the sand comes up to it, its top level, instead of in broken lengths on the water's edge; side streets meet Beach Road's kerb instead of stopping short in the grass.
-- **The Port Melbourne loop:** ride out along Beaconsfield Parade, round Station Pier's gatehouse on the pier itself, with the Bass Strait ferry at her berth and the old sheds down the pier, and home along the Bay Trail by the beach; no more turning round on a roundabout at Port Melbourne.
-- **St Kilda harbour and its pier:** the way home comes round Pier Road past the yacht squadron's marina, full of moored yachts, and out along St Kilda Pier's timber boards to the kiosk at its end, where you turn on the pier's round.
-- **Fairy penguins:** St Kilda's little penguins stand in little groups on the breakwater's low rocks beside the last of the pier, white fronts to you as you ride by, waddling from rock to rock, preening, stretching a flipper and turning to watch you go; a few swim by the rocks, and at sunset more of them come ashore.
-- **Piers, breakwaters and marinas all along the bay:** every pier and jetty on Beach Road stands on its piles, the breakwaters and groynes are tumbled granite armour stones a metre or two across, and the marinas are full of boats.
-- **The Middle Park loop:** a new course up Beaconsfield Parade, inland up Kerferd Road, down Canterbury Road beside the light rail and down Fitzroy Street to St Kilda, about 6.4 km a lap; at Middle Park you can turn up Kerferd Road on any ride, and at Canterbury Road choose St Kilda or Albert Park.
+- **Wheels on the road at Port Melbourne:** the turning loop at Station Pier no longer rises through your wheels. The ground is flat, and both end loops lift you smoothly onto the roundabout.
+- **Real bay beaches:** the beaches along Beaconsfield Parade, St Kilda and Beach Road slope gently into the water, pale sand with a darker wet edge. No grass in the sea, no trees on the sand.
+- **A tidy sea wall:** the low wall runs in one level piece along the bay trail. Side streets now meet Beach Road's kerb instead of stopping short in the grass.
+- **The Port Melbourne loop:** ride out along Beaconsfield Parade, round Station Pier's gatehouse past the Bass Strait ferry, and home along the Bay Trail by the beach. No more turning on a roundabout.
+- **St Kilda harbour and its pier:** the way home comes round Pier Road past the yacht squadron's marina, then out along St Kilda Pier's timber boards to the kiosk, where you turn.
+- **Fairy penguins:** St Kilda's little penguins stand in groups on the breakwater rocks beside the pier, waddling, preening and stretching a flipper. A few swim by, and more come ashore at sunset.
+- **Piers, breakwaters and marinas all along the bay:** every pier and jetty on Beach Road stands on its piles, the breakwaters are tumbled granite boulders, and the marinas are full of boats.
+- **The Middle Park loop:** a new 6.4 km course up Beaconsfield Parade and Kerferd Road, down Canterbury Road beside the light rail, and down Fitzroy Street to St Kilda.
 - **St Kilda Pier's boards:** the deck is laid in weathered planks butted end to end with their bolts, and the rail runs on a rhythm of posts with a mid rail.
 - **Port Phillip's own colour:** the open bay is a softer grey-green, with the aqua kept for the shallows over the sand.
-- **Choose your way home:** at St Kilda beach and St Kilda Pier the junction prompt offers the foreshore to Station Pier, out along the pier, or on along Beach Road and Jacka Boulevard; at Station Pier the road simply carries on, with nothing to choose.
+- **Choose your way home:** at St Kilda beach and St Kilda Pier, pick the foreshore to Station Pier, out along the pier, or on along Beach Road. At Station Pier the road just carries on.
 - **No more green islands in the bay:** small mounds of grass that stood out of the water 200 m off the shore are gone.
 
 ## 0.12.0
 
-- **Only trainers are trainers:** the search for Wi-Fi and wired trainers no longer counts an Apple TV, a speaker or a printer announcing itself on your network as a trainer; nothing about those devices is kept, logged or offered as a choice.
-- **See what you've done:** on Your program a done day turns green with a tick and says what you did: the ride's time, distance and average power, or each exercise's sets followed along here; the week shows as a ring with your time and kilometres, a short celebration greets each new session once, and a finished week or program gets a bigger one.
-- **Every day in the program strip:** the strip at the top of each ride page showed only its gym days and extra rides; every day now shows, ticked when done.
-- **Junctions you can read from the sofa:** the ways out sit side by side, left to right as the roads go, so ← and → (or the D-pad) move along them; the way you'll take is filled in teal with a tick and the others dimmed, the light slides as you pick, and a click or a tap on a way now picks it.
-- **See your controller connect:** plugging in or turning on a controller mid-ride says so for 8 seconds, with what its buttons do, says so again if it goes, and a controller mark sits on the Devices button while one is connected.
-- **Melbourne rides never freeze:** on a long ride the picture stopped where the road had been built to at the start while the clock, distance and map went on; the world now follows you however far you ride.
+- **Trainer search ignores other devices:** the Wi-Fi and wired trainer search no longer lists an Apple TV, speaker or printer on your network. Nothing about those devices is kept or logged.
+- **See what you've done:** on Your program a finished day turns green with a tick and shows your time, distance and average power, or your sets. Each week shows as a ring.
+- **Every day in the program strip:** the strip at the top of each ride page now shows every day, ticked when done, instead of only the gym days and extra rides.
+- **Junctions you can read from the sofa:** the ways out sit left to right as the roads go, so ← and → (or the D-pad) move between them. Your way is teal with a tick.
+- **See your controller connect:** plug in or switch on a controller mid-ride and the app says so for 8 seconds, with what its buttons do. A mark on Devices shows while it's connected.
+- **Melbourne rides never freeze:** on a long ride the picture used to stop while the clock and distance went on. The world now follows you however far you ride.
 - **Lighter long rides in Melbourne:** the ride no longer builds road thousands of kilometres ahead as it goes, which slowed the app the longer you rode.
-- **St Kilda is a simple fork:** the junction sits on the foreshore road, so Beach Road and Beaconsfield Parade run straight through it and Fitzroy Street turns off to Albert Park; no more riding up a short road to a roundabout and back before heading down Beach Road, and no swinging towards the road you didn't take.
-- **Ride on to Port Melbourne:** Beaconsfield Parade now runs 4 km along the bay to Station Pier, with the beach, the palms and the city skyline beside it, and turns on a loop there; pick Port Melbourne as a course of its own, or ride straight on through St Kilda from Beach Road.
+- **St Kilda is a simple fork:** Beach Road and Beaconsfield Parade run straight through the junction and Fitzroy Street turns off to Albert Park. No more detour to a roundabout and back.
+- **Ride on to Port Melbourne:** Beaconsfield Parade now runs 4 km along the bay to Station Pier, past the beach, palms and city skyline. Ride it as its own course or straight on from Beach Road.
 - **Smoother turns at every Melbourne junction:** whichever way you go through a junction, you ride one smooth curve on to the next road, with no jump or wobble on the way.
-- **Out of St Kilda the way a rider goes:** Beach Road heads straight down Jacka Boulevard, with the tram above on The Esplanade, instead of going up Beaconsfield Parade and doubling back; it no longer circles the Black Rock clock tower's roundabout, and Fitzroy Street's shops stand beside Fitzroy Street.
+- **Out of St Kilda the way a rider goes:** Beach Road heads straight down Jacka Boulevard under the tram on The Esplanade, no doubling back. It no longer circles the Black Rock clock tower.
 - **Room to pass:** other riders coming past step aside from where you are on the road, so shoulders and arms no longer overlap.
 - **A steadier rider's-eye view:** the head rocks a third as much as you pedal, so climbing slowly the road no longer bumps with every stroke.
 - **The map's arrow turns with you:** after a U-turn, and riding back along Beach Road, the arrow points the way you're going instead of backwards.
 - **A U-turn on a turning loop does nothing:** at the end of a road, where the loop is already turning you round, U-turn no longer sends you riding backwards.
-- **Wi-Fi and wired trainers without Bluetooth:** a Direct Connect trainer on Wi-Fi or Ethernet is found and ridden on a computer with no Bluetooth, or with Bluetooth off, and the app says Bluetooth is missing while it keeps looking on your network.
-- **Network, not Bluetooth:** a Direct Connect trainer shows as Network (Wi-Fi or Ethernet) with its own mark in the devices panel, setup and Edit rider, and a switch back from ANT+ says "Back on Network".
-- **Add a trainer by its address:** if your Wi-Fi or wired trainer doesn't show (guest Wi-Fi and some routers hide it), add it by its IP address under the trainer list; it's remembered and connects directly next time.
+- **Wi-Fi and wired trainers without Bluetooth:** a Direct Connect trainer on Wi-Fi or Ethernet works on a computer with no Bluetooth, or with it off. The app says Bluetooth is missing and keeps looking.
+- **Network, not Bluetooth:** a Direct Connect trainer shows as Network (Wi-Fi or Ethernet) with its own mark, and switching back from ANT+ says "Back on Network".
+- **Add a trainer by its address:** if a Wi-Fi or wired trainer doesn't show up (guest Wi-Fi and some routers hide it), add it by IP address. It's remembered next time.
 
 ## 0.11.0
 
-- **Your program:** Today is now Your program, and every ride page opens with a small strip: the week you're in, the days done, your next session and your goal, one press from riding it. The summary says whether a ride counted for a plan day or was an extra ride.
-- **Swap a session for a similar one:** on Your program, or from the strip on any ride page, swap the day's workout for one of the same type with about the same hard work, often shorter (30/15s for a Norwegian 4 × 4, nine minutes less). It counts for the day; your plan stays as it is.
+- **Your program:** Today is now Your program. Every ride page opens with a strip showing your week, the days done, your next session and your goal, one press from riding it.
+- **Swap a session for a similar one:** swap the day's workout for one of the same type and effort, often shorter. It still counts for the day, and your plan stays the same.
 - **Extra rides count where you look:** a ride on top of your plan shows on Your program beside the week's days, in its own colour, and the strip counts it.
 - **Program complete:** when the last week is ridden, Your program says so and offers your next block, or a new goal.
 - **Every day rides indoors:** a day planned as an outdoor ride says so and offers Ride it indoors, which still counts it done.
-- **Choosing a ride is simpler:** Melbourne is a world of its own on the Free ride page, with Beach Road and the Albert Park circuit as separate courses that each loop by themselves (steer off at any junction with the arrow keys), and Beach Road is ready when you open the page.
+- **Choosing a ride is simpler:** Melbourne has its own place on the Free ride page, with Beach Road and the Albert Park circuit as separate looping courses. Steer off at any junction with the arrow keys.
 - **Where you ride, the same everywhere:** Your program, Workouts and Pace partner choose the course in the same dialog, now tall enough to show the courses in a grid.
 - **Where you ride in groups:** the course dialog's All shows Melbourne, Climbs, Chill rides and Your routes under their own headings.
 - **Follow a study:** the studied interval protocols as blocks of sessions in the study's order and dose, with where you are and your heart rate in the hard parts session by session.
-- **The trainer keeps going when Bluetooth drops:** if the trainer's link has been down 5 seconds while you pedal, the ride reaches it over the other radio (Bluetooth or ANT+) without stopping, and goes back to the first if it answers first. A drop you can't feel says nothing; a trainer asleep while you're paused just says so. You can also switch it yourself from Devices (H), with a confirm.
-- **Speed, average speed and cadence:** power, heart rate and speed are the big numbers now, with your average speed under your speed, and the gradient pops up by itself on a hill steeper than 3%.
-- **Descents feel like Zwift's:** a descent goes to the trainer at half its grade before the road feel, so 100% is never a freewheel; climbs are unchanged.
+- **The trainer keeps going when Bluetooth drops:** after 5 seconds without a link while you pedal, the app switches to the other radio (Bluetooth or ANT+) without stopping, and switches back when it can.
+- **Speed, average speed and cadence:** power, heart rate and speed are the big numbers now, with average speed under speed. The gradient pops up by itself on a hill steeper than 3%.
+- **Descents feel like Zwift's:** a descent goes to the trainer at half its grade before the road feel, so 100% is never a freewheel. Climbs are unchanged.
 - **A smaller bar and menu:** the bar stays on one row on any screen, with a HUD button for the numbers, Finish asks above it, and the menu has only what the bar doesn't.
-- **The keys work with a video open:** C, M and the rest reach the ride while YouTube has the keyboard, except when you're typing in it; the keys list now has P for a screenshot.
+- **The keys work with a video open:** C, M and the other keys reach the ride while YouTube is open, unless you're typing in it. P takes a screenshot.
 - **Signed in once on Linux:** on Omarchy and other Hyprland or Sway desktops the app keeps your sign-in in the keyring, so it no longer asks for a code every launch.
-- **Melbourne fixes:** wheels sit on the road at junctions instead of sinking into them, nothing stands on the roads, kookaburras perch on lamps, benches and bus shelters instead of in mid-air, proper slatted park benches, a smooth Albert Park lake shore, and a drone camera that chases close behind and swings side to side.
-- **Finish is never under the climb profile:** on a smaller screen the ride bar tightens a step at a time (words to icons, then the buttons the menu also has) instead of running under the profile, so Pause and Finish can always be pressed.
+- **Melbourne fixes:** wheels sit on the road at junctions, kookaburras perch on lamps and bus shelters instead of mid-air, benches are proper slatted ones, and the Albert Park lake shore is smooth.
+- **Finish is never under the climb profile:** on a smaller screen the ride bar shrinks step by step, from words to icons, so Pause and Finish can always be pressed.
 - **Melbourne rides keep their name:** the summary, the share picture and Your rides say Beach Road or Albert Park circuit, not Mountain climb.
-- **One button for the sun and the sky:** the sun matches your clock (sunrise early, golden hour from 4 pm) and the sky mixes itself up each ride unless you pick one. ERG and road feel sit beside the goal.
+- **One button for the sun and the sky:** the sun follows your clock (sunrise early, golden hour from 4 pm) and the sky changes each ride unless you pick one.
 - **Fits in and New to me:** one filter for the time you have, a tick on every course you have ridden, and New to me to hide them.
 - **Where each workout comes from:** each one says plainly whether it is as studied, from a study, or a coach's pick.
 - **One pace control:** Pace partner's pace goes slower or faster a quarter of a W/kg at a time, with the five bands under it.
-- **Small screens and controllers:** on a short screen the side menu becomes icons and your rider stays in view; the arrow keys or a controller move about the start pages, B or Backspace goes back, and Start starts the ride.
+- **Small screens and controllers:** on a short screen the side menu becomes icons. The arrow keys or a controller move around the start pages, B goes back, and Start starts the ride.
 
 ## 0.10.0
 
-- **40/20s join the library, and VO2max sessions sort into short and long intervals:** the Workouts page says what each shape is for and what the studies found, and 40/20s ride the 30/15 rhythm with longer efforts, marked as based on the studied protocol, not the protocol itself.
-- **Sunsets and sunrises:** on the real roads, choose the sun on the start page: Day, or Sunset (the golden hour, the sun setting at its real pace until it hangs on the horizon) or Sunrise; the light warms and the shadows stretch as you ride, and the menu says how long to sunset.
-- **Albert Park's light towers, a footbridge over the pit straight, and a more varied city skyline:** the circuit's floodlight poles in place of radio masts, a footbridge over the straight, and towers of different glass with spires and setbacks on the horizon.
-- **The Black Rock clock tower, the sailing clubs and a tram:** the clock tower on its roundabout, every yacht and sailing club as a clubhouse with its flagpole and boats, and the old green tram shuttling along the Esplanade above Luna Park, all built as models.
-- **Palms on the foreshore and a smooth shoreline:** the short fat palms of St Kilda's foreshore along Beach Road and round Luna Park's gate, and the water's edge a curve rather than the map's straight runs.
-- **Hero pieces as models:** Luna Park's gate, Albert Park's pit building, the pavilion restaurant on the St Kilda foreshore and the Brighton bathing boxes are proper models now, built in Blender, in place of the shapes drawn in code.
-- **Albert Park is parkland:** the lake with swans on it, lawns and trees instead of made-up houses, and the circuit dressed as a race track: red and white kerbs on the bends, gravel traps outside the sharp ones, the pit building, the grandstand and the start-finish gantry on the main straight. The junctions no longer show both roads' lines across them, and the prompt's arrows are big round badges.
-- **Choosing your way at a junction:** the ways out are buttons on the prompt, so a mouse or a touch screen picks one as the arrow keys and the pad's left and right do; and a U-turn on Beach Road now turns the road round under you, so the junction you came through is offered again on the way back.
-- **A drone camera:** a sixth view (key C), high and slow behind the rider, drifting across; and the helicopter now flies over the buildings as well as the hills, so it never passes through a block of flats.
-- **Beach Road is an arterial:** kerb and gutter both sides with a nature strip, the bay trail along the foreshore, a sea wall where the coast comes to the road, bus stops, and driveways and hedges on the houses; no more gravel shoulders and country guide posts.
-- **Beach Road is a suburb now:** the streets from the map either side of the road with kerbs, footpaths and street trees, houses on every lot (the map's where it has them, our own along the streets where it does not, most of them Bayside's modern white ones with big windows and high walls), and roofs rather than grass to the horizon.
-- **Every slot of the locker in view on a laptop:** on a small screen the seven slots go across the top, the rider small beside the open slot's items, so nothing on Your rider is below the fold; a long list of kits scrolls inside its own panel.
+- **40/20s join the library:** the 40/20s ride the 30/15 rhythm with longer efforts. VO2max sessions now sort into short and long intervals, and the Workouts page says what each is for.
+- **Sunsets and sunrises:** on the real roads, choose Day, Sunset or Sunrise on the start page. At sunset the sun sinks at its real pace, the light warms and the shadows stretch as you ride.
+- **Albert Park's light towers and a footbridge:** floodlight poles line the circuit, a footbridge crosses the pit straight, and the city skyline has towers of different glass, spires and setbacks.
+- **The Black Rock clock tower, the sailing clubs and a tram:** the clock tower stands on its roundabout, each sailing club has its clubhouse and boats, and the old green tram runs above Luna Park.
+- **Palms on the foreshore and a smooth shoreline:** St Kilda's short fat palms line Beach Road and Luna Park's gate, and the water's edge curves instead of running in straight lines.
+- **Landmarks as proper models:** Luna Park's gate, Albert Park's pit building, the St Kilda pavilion and the Brighton bathing boxes are now detailed 3D models.
+- **Albert Park is parkland:** swans on the lake, lawns and trees, and a real race track with red and white kerbs, gravel traps, the pit building, grandstand and start-finish gantry.
+- **Choosing your way at a junction:** the ways out are buttons, so a mouse or touch screen works as well as the keys. A U-turn on Beach Road offers the junction again.
+- **A drone camera:** a sixth view (key C), high and slow behind you, drifting from side to side. The helicopter view now flies over buildings instead of through them.
+- **Beach Road is an arterial:** kerbs, gutters and a nature strip on both sides, the bay trail along the foreshore, a sea wall, bus stops, and houses with driveways and hedges.
+- **Beach Road is a suburb now:** real streets either side with kerbs, footpaths and street trees, houses on every lot, many of them Bayside's modern white ones, and rooftops to the horizon.
+- **Every slot of the locker in view on a laptop:** on a small screen the seven slots run across the top, so nothing on Your rider is hidden below the fold.
 - **Quit from the side panel:** a Quit REPley Ride button under Full screen, so there is a way out between rides, not only after one.
-- **The first KICKR and SNAP ride over Bluetooth:** a Wahoo trainer whose firmware has no FTMS is driven with Wahoo's own control, found and remembered on its first connect, so it needs no firmware update and no ANT+ stick.
-- **Wi-Fi and Ethernet trainers connect:** a KICKR v6, KICKR CORE 2, Elite Justo 2 or Avanti, JetBlack Victory, or a KICKR with the Direct Connect dongle, on the same network as your computer is found beside Bluetooth and ridden the same way.
-- **Beach Road, the first Melbourne area, in beta:** real roads from St Kilda to Mordialloc with the Albert Park lap off the junction, chosen under Melbourne on the course picker; the arrows pick your way at each junction, and the four Strava segments are timed where they are. First pass of the scenery.
+- **The first KICKR and SNAP ride over Bluetooth:** a Wahoo trainer without FTMS is controlled with Wahoo's own protocol, so it needs no firmware update and no ANT+ stick.
+- **Wi-Fi and Ethernet trainers connect:** a KICKR v6, KICKR CORE 2, Elite Justo 2 or Avanti, JetBlack Victory, or a KICKR with the Direct Connect dongle is found on your network and ridden like Bluetooth.
+- **Beach Road, the first Melbourne area, in beta:** real roads from St Kilda to Mordialloc, with the Albert Park loop off the junction. Pick your way at each junction, and four Strava segments are timed.
 
 ## 0.9.4
 
-- **Save ride is always in view:** the Save panel never grows taller than the screen, however many pictures a ride
-  has; the pictures scroll inside it instead.
+- **Save ride is always in view:** the Save panel never grows taller than the screen, no matter how many pictures a
+  ride has. The pictures scroll inside it instead.
 - **A turning loop at each end of the forest climb:** a big loop of gravel the ride goes round, where it used to
   spin on the spot, with the forest kept clear of it. Its map no longer has pale edges, and its climb chart shows.
 - **Sign in to YouTube, TikTok, Audible and the rest inside the app:** a Sign in button on the video panel opens the
-  service's sign-in in a bigger window, once; it stays signed in here, like Strava. Google's sign-in works inside
-  the app after all, so the old "watch in your browser" note is gone.
+  service's sign-in in a bigger window, once. It then stays signed in here, like Strava. Google's sign-in also works
+  inside the app, so the old "watch in your browser" note is gone.
 
 ## 0.9.3
 
@@ -150,9 +164,9 @@ care about, with a **bold lead** where it has one: the app's update line names t
 
 ## 0.9.1
 
-- **Pictures with or without your numbers:** each screenshot on the Save panel has a Data switch. On, the course and
-  your big numbers as they were along its foot, larger than before; off, just the road and REPley Ride. Each starts
-  the way your screen was, and Data on all or none does the lot.
+- **Pictures with or without your numbers:** each screenshot on the Save panel has a Data switch. On, it shows the
+  course and your big numbers along its foot, larger than before. Off, it shows just the road and REPley Ride. Each
+  starts the way your screen was, and a single switch turns Data on or off for all of them at once.
 - Heart rate shows on your pictures only if it goes to Strava with your rides. The ride on Strava is the same either way.
 
 ## 0.9.0
@@ -238,15 +252,15 @@ care about, with a **bold lead** where it has one: the app's update line names t
 - Windows' installer is signed by Chain Brothers Pty Ltd, so Windows names the publisher.
 - Your trainer is held ready on the start screen, so Start waits for nothing.
 - Each ride's details and its finish picture go to REPley, and your earlier rides once.
-- Riders on the road only step aside to pass you; ride charts show your power as recorded; zone rides from your plan
-  are held in ERG; and your rides are listed on Today.
+- Riders on the road only step aside to pass you. The ride charts show your power as recorded, and zone rides from
+  your plan are held in ERG. Your rides are listed on Today.
 
 ## 0.5.3
 
 - Follow along with your gym days on screen, beside your plan's rides.
 - One way on at a time: one Start on Today, and nothing greyed out without a reason.
-- Other riders on the road at your pace; ski lifts, creeks, snow and granite on the climbs; menus that fit a TV; a
-  map you can zoom; and panels and the window remembered for each screen.
+- Other riders on the road stay at your pace. The climbs gain ski lifts, creeks, snow and granite. Menus fit a TV.
+  The map zooms, and panels and the window are remembered for each screen.
 - Any of your own heart-rate straps connects, whichever one you are wearing.
 
 ## 0.5.2
@@ -266,7 +280,7 @@ care about, with a **bold lead** where it has one: the app's update line names t
 ## 0.4.3
 
 - Separate Mac downloads for Apple chips and Intel, each about 100 MB smaller.
-- The welcome film on install and after each update; its short sting on every launch.
+- The welcome film plays on install and after each update, with a short sting on every launch.
 
 ## 0.4.2
 
