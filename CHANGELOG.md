@@ -11,6 +11,20 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.15.0
+
+- **How did it feel, in one tap:** after a ride, tap Easy, Moderate, Hard, Very hard or All out. It keeps your progression accurate toward your goal, and your coach sees it too.
+- **Every interval checked:** each interval of tempo or harder shows as held or missed as you ride, and the summary lists them. Say why you missed one, so a busy day never counts against you.
+- **Your FTP from your rides:** the Journey offers an FTP worked out from six weeks of your indoor rides, one tap to use, beside your rider profile. You need to be signed in to REPley.
+- **A ramp test sets your FTP straight away:** with one tap to keep your old one. A strong ride now offers its higher FTP rather than changing it for you.
+- **Workouts your way on screen:** pick Full, Compact or Off for the workout card from the menu or with W. Skip sits on the card, and the countdown to the next interval always shows.
+- **A calmer screen:** the bottom bar fades after a few seconds. Segment banners shrink once you've read them, and a junction's choices tuck away once you've picked.
+- **Gates you pass once:** an interval gate on a U-turn, like the one at Station Pier, no longer counts you through it twice.
+- **Rides that start without your strap:** if your heart-rate strap or cadence sensor needs an ANT+ stick that isn't plugged in, the ride starts anyway and tells you, instead of refusing to start.
+- **Watch your world being built:** the loading card is smaller so you can see the world take shape, and the course you're likely to ride is built ahead on the start screen.
+- **Lighter rain:** rain on Low draws faster, for a smoother ride on modest graphics.
+- **A new look:** REPley Ride's icon is REPley's barbell with chainring plates and a crankset's spider, centred.
+
 ## 0.14.2
 
 - **Legs that turn on every trainer:** if your trainer sends power but no cadence, your rider pedals at a rate that fits your power. The ride offers to add a Bluetooth or ANT+ cadence sensor, once, and remembers if you say no.
