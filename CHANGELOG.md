@@ -11,6 +11,49 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.16.0
+
+- **One HUD button for the whole screen:** HUD on the ride's bar opens one panel with four layouts (Full, Simple, Clean and Off) and a switch for each part. D goes round the four.
+- **Intervals at a glance:** the workout's steps sit in a card at the left, and the one you're on fills in its zone's colour as you ride it. Compact shows the next two, List the next four.
+- **Your workout along the bottom:** with the profile on, the whole workout runs across the foot of the screen with a line where you are.
+- **Glass panels:** the map, the climb's chart, the intervals and the banners let the road show through, blurred. On Low graphics they keep a plain tint for a smoother ride.
+- **Nothing covers anything:** the banners sit under the numbers whatever their size, and the course's name stops short of your power.
+- **A tidier menu:** the map, the segments and the workout's view moved from the menu to the HUD panel.
+- **Your workout, step by step, after the ride:** the summary shows each step in its zone's colour, held, missed, skipped, stopped part way or ridden with ERG off a while, and the steps you didn't reach in one line.
+- **Junctions that look like junctions:** each road meets the junction at its own mouth, and the kerb and verge turn the corner on a curve. The round patch of tarmac with kerbs cut off inside it is gone, at Albert Park's start too.
+- **Kerbs on both sides of the road:** on Beach Road's streets one side's kerb, gutter and grass strip, and some footpaths, were never drawn. Both sides have them now.
+- **Roads that end square at a junction:** a road's lines stop straight across where the junction begins, and no grass shows through its tarmac.
+- **No loose gravel on the Grand Prix circuit:** the gravel beside Albert Park's bends lay about the grass in separate slabs. Only the tightest bends have it now, in one piece that narrows at its ends.
+- **Close the app on Android:** a Close REPley Ride button sits at the foot of the menu, and a Close button on the ride-saved screen sends your ride first. It needs the next Android build, not a live update.
+- **Phone reports reach the beta:** your rides and the "Send a setup report" button now report from the Android and iPhone apps, the same as on a computer. Reports made offline wait and go at your next launch.
+- **Share your ride's pictures on Android:** "Share the pictures" stopped with an error, because Android wouldn't hand the app's own pictures to other apps. Your screenshots and the ride card now open in the share sheet, ready for Strava. It needs the next Android build, not a live update.
+- **Rides reach Strava from the Android app:** the phone sent the ride file as garbled text, so REPley turned it away. It now arrives whole, and if REPley ever refuses a file again the ride says why.
+- **Your FTP on every device:** signed in, your FTP, weight, kit and settings follow you, so an FTP raised on your phone sizes the computer's next ride. FTP and weight go only with your OK to share body data.
+- **A new device starts where you left off:** sign in on a new computer and your FTP, weight and kit are there, ready to ride.
+- **Each screen keeps its own layout:** a TV can stay on Full while your phone keeps Simple.
+- **Answer once about your body data:** whether heart rate, power and weight go with your rides is one answer for you, on every device. Say no on your phone and your computer stops sending them too.
+- **Smoother rides on Android phones:** Melbourne and the climbs run at about 60 frames a second on a mid-range phone, up from as low as 15, with a sharper picture. A warm phone draws a little softer instead of stuttering.
+- **Your ride report says how smoothly it ran:** it now includes your device's graphics chip and frame rate, so a slow phone shows up without you doing a thing.
+- **A fuller Beach Road:** more houses and blocks of flats line the route, and the beach side stays open as it really is.
+- **Café Racer Old School:** the cyclists' café stands on its Marine Parade corner, with tables and bikes out front.
+- **Trees that look like trees:** plane trees, elms, figs and gums line Melbourne's roads, each with its own bark, and Norfolk Island pines stand on the Beach Road foreshore. The Stelvio has spruce, fir and pine.
+- **Windows with rooms behind them:** houses and shops catch the sky and show curtains, blinds and lit shelves as you ride past.
+- **A street that's lived in:** cars parked down the side streets, road bikes leaning on racks, and café tables under umbrellas with people at them.
+- **Grass you can see:** real grass on the nature strips beside the road, on High and Ultra.
+- **Front gardens:** leafy hedges and shrubs instead of green boxes.
+- **Side streets that join the road:** every side street off Beach Road now meets it on curved kerbs, with the bike lane painted green across the corner.
+- **Footpaths the whole way:** the footpath runs along Beach Road's houses without gaps, turns each corner and crosses every side street.
+- **Suburbs filled in:** streets behind the beach have houses behind houses now, and Brighton has homes on both sides of the road.
+- **A start and finish arch:** an inflatable REPley Ride arch marks the start of every ride and the finish line.
+- **Out of the saddle:** your rider stands up to push hard on steep climbs and in sprints, and other riders do too.
+- **Lifesaving clubs:** each club along the bay has its building and red and yellow patrol flags on the sand.
+- **Smoother on phones:** Luna Park and the St Kilda end ride several frames a second faster.
+- **Your strap before you ride:** the start card says when no heart-rate strap is chosen, with Find my strap right there, and a ride without one asks once, a minute in. A Garmin or Apple watch shows up once its heart-rate broadcast is on.
+- **Strava from the start:** setting up asks whether your rides go to Strava, and once it is connected you can send the rides of the last month too.
+- **Fewer screenshots:** a ride takes at most four of its own, two minutes apart, so the ones it takes are the ones worth keeping.
+- **Pictures in your photos:** on a phone, screenshots land in your photos in a REPley Ride album, and the ride's card shares straight from the summary.
+- **Your rides, and progress with your program:** the Journey page is now Your rides, every ride you have done. Your level, this week, your FTP and badges sit at the top of Your program, with See all progress for the rest.
+
 ## 0.15.0
 
 - **How did it feel, in one tap:** after a ride, tap Easy, Moderate, Hard, Very hard or All out. It keeps your progression accurate toward your goal, and your coach sees it too.
