@@ -11,6 +11,50 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.17.0
+
+- **Shadows to the horizon:** on High and Ultra, buildings and trees cast shadows well beyond the road around you, and corners and doorways sit in soft shade.
+- **Late afternoon by default:** rides start in a low, warm sun against a cool sky. Pick another time of day from the button beside the route before a ride.
+- **Clouds that look like clouds:** ragged, uneven cumulus that take on the sun's colour at dusk.
+- **Haze and colour:** a light haze softens the far suburbs, and a gentle colour grade warms the whole scene.
+- **Street lamps at dusk:** lamp heads glow and throw warm pools of light on the road as the sun goes down.
+- **Gum trees:** trunks taper gradually and branches keep their thickness, as real gums do.
+- **Standing to accelerate:** your rider stands when you push harder and sits again once the power settles.
+- **Pausing on a hill:** your rider now stops within seconds when you pause, even on a steep descent. Only the picture changes, not your trainer.
+- **Helmets that fit:** every helmet sits snugly on the head with no bulges at the ears, and the female rider's head has a natural shape.
+- **Natural hair:** short hair looks cropped, a ponytail grows out of the head, and the hairline is clean round the ear.
+- **Beards and moustaches:** choose stubble or a short beard on the Rider tab. Earn a moustache, a goatee and a full beard with badges.
+- **Hair styles to earn:** the swept quiff comes with the Summit badge and the long plait with Park pass. A style you already wear stays yours.
+- **Faces:** the male rider's face has more natural proportions, and chins no longer stretch when the head lifts on the bike.
+- **Your own intervals:** on Workouts, Build your own sets how many efforts, how long and how hard, the rest between, and the warm-up and cool-down.
+- **A ramp test runs every step:** steps can't be skipped or eased. A pause ends the test without saving it, so a rest can't lift your FTP.
+- **A fairer FTP from the ramp test:** only the minutes of the test itself count. Riding on after it ends, up a climb or in a sprint, no longer changes the result.
+- **Weight in your units:** the ramp test result shows your watts per kilo with your weight in kg, pounds, or stone and pounds, as you chose.
+- **Faces that move:** riders blink and breathe, smile a little when the riding is easy, and breathe through an open mouth, squint and frown when they push hard.
+- **Your effort on your face:** your rider's expression follows your watts against your FTP, so a hard interval shows.
+- **Grounded bikes:** a soft shadow sits under every bike, darkest under the tyres, so riders look planted on the road in shade and on overcast days too.
+- **Bike lettering:** every bike carries REPley on both sides of the down tube, in your kit's accent colour.
+- **Melbourne terraces:** in Albert Park, Middle Park and St Kilda, terrace rows have parapets, wing walls and iron verandahs with cast-iron lace.
+- **Thirties flats:** some St Kilda and Elwood flats are cream render with a band at every floor and a stepped front over the entrance.
+- **Fern forest:** on the 1 in 20, Donna Buang and Mount Buller, ground ferns now fill the forest floor beside the road.
+- **Timing gantries:** a gantry stands over each sprint, KOM and finish line, and its banner matches the line painted on the road.
+- **Four places instead of seven:** the menu is now Your program, Workouts, Ride and You, on a computer and on a phone's tab bar.
+- **Ride holds Free ride, Pace partner and the Adventure park:** three tabs with an icon each, and Ride opens on the one you rode last.
+- **The park is easy to find:** before it opens, its tab shows how many of its three steps you have done. A tap shows what is left, with a way to ride each step.
+- **The park says when it opens:** its tab glows and reads New, Ride gets a dot and a banner appears, until you visit it once. The ride that earns it has Go to the park.
+- **Devices from any page:** a Devices button sits top right of every page and opens your trainer and strap without leaving where you are. A preview never needs one.
+- **Workouts start from what you want:** pick Ride longer, Raise my FTP, Top-end fitness, Sprint power, Recover or Test my FTP. Then pick your time, and the three best matches show.
+- **Short on time:** choose 30 or 45 minutes and longer sessions are cut to fit at the same targets. Each one says how much of the work it keeps.
+- **Build your own stands apart:** a dashed tile marked Custom opens its own page, with the chart of your set as you build it.
+- **All-out sprints are all out:** during a sprint the trainer lets go of ERG, so the road and your gear set the resistance, and ERG comes back for the recovery. You can hold sprints in ERG instead.
+- **Two sprint sessions from studies:** Short sprints 3 × 4 × 6 s and Sprints 20 × 6 s, each as its study rode it.
+- **Build your own goes all out:** one press of All out makes every effort a sprint, and efforts now go down to five seconds.
+- **Your program fits your time:** today's session offers 30 min, 45 min or As planned. A shorter version counts as today, done shorter.
+- **Rides that do the work count:** a ride from another page that does today's work counts for today. The summary says so, with Undo.
+- **One look for every page:** a plain title, one choice, and Ready to ride at the foot with the preview and Start.
+- **A light theme:** turn it on in You, Edit rider, Graphics, Pages. The ride itself and pictures with words on them stay dark.
+- **See who you ride with:** Pace partner shows the robot you picked riding on Beach Road, alone or as a bunch of five, in its pace band's colour.
+
 ## 0.16.0
 
 - **One HUD button for the whole screen:** HUD on the ride's bar opens one panel with four layouts (Full, Simple, Clean and Off) and a switch for each part. D goes round the four.
