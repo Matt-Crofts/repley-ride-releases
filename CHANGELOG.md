@@ -11,6 +11,27 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.17.1
+
+- **Arches at every line:** every sprint, KOM and finish line has an inflatable arch in place of the old metal gantry. Sprint arches are green, KOM arches white with red polka dots, and each reads START or FINISH.
+- **Segments read one way:** a segment's arch and road paint face the riders it counts for, with chevrons at the start. Ridden the other way, you see plain REPley Ride branding.
+- **A loop at the top of each climb:** climbs now turn round a road loop about a landscaped island, three times the old roundabout's size. Each turn adds about 90 m, and you ease into it instead of braking at once.
+- **Bigger turnarounds:** Beach Road's roundabouts are bigger, every turnaround has a TURNAROUND arch with the crowd behind barriers, and no footpath runs into them. Other riders now go round instead of turning on the spot.
+- **Real coaches and a TV truck:** the team coach, the WOMBAT coach and the TV truck are proper vehicles, with windows, doors, mirrors, lights and the dish on the truck.
+- **Better buildings:** distant buildings, and every building on a phone, have framed windows, doors, alpine shutters and shopfronts under verandahs. Many Australian houses gain a front verandah.
+- **More detailed parked cars:** door lines, handles, number plates and spoked wheels on the higher settings. Phones keep the simpler cars.
+- **Bike lanes:** the painted symbols show a whole bicycle, and the green paint where side streets cross the lane shows the asphalt through it.
+- **Café Racer:** the bikes and diners outside the café sit on the footpath, not sunk into it.
+- **Smoother creeks:** streams beside the climbs curve between rounded banks and flow downstream. Where a creek meets the road, it runs underneath.
+- **See your rider on You:** You shows your rider on the bike in your kit and gear, with Edit rider one press away.
+- **Light, dark or match your system:** choose the look of the pages on You. Match system follows your computer or phone, and the window opens in the colour you chose.
+- **The steps before you start:** Workouts, Build your own and Your program list a workout's steps, from the warm-up through each set and its rest to the cool-down, with the watts.
+- **Devices holds your trainer:** Edit rider is now Rider, Graphics and Account. Your trainer and strap live in Devices, top right of every page, and a dot there says when something needs a look.
+- **A quicker first run:** setting up now asks only what sizes your rides. Settings such as how power is shown wait in Edit rider.
+- **You fits a phone:** its buttons sit in one row of icons at the foot, so they no longer cover your rides.
+- **Your look on a phone:** the locker's slots are a row you swipe, with bigger tiles and one line each.
+- **The road to the top, first:** on a climb the big number is now the distance left to the top, in metres once you are close. The metres still to climb sit beside it.
+
 ## 0.17.0
 
 - **Shadows to the horizon:** on High and Ultra, buildings and trees cast shadows well beyond the road around you, and corners and doorways sit in soft shade.
