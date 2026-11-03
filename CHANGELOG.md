@@ -11,6 +11,11 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.18.5
+
+- **A sharper opening film:** the trees along the Yarra and the snow on the SkiErg trail no longer break up or blur.
+- **The courses show behind the app's screens:** the film is only softened under REPley's screens now, so St Kilda Pier at sunset stays in view.
+
 ## 0.18.4
 
 - **The opening film ends on Ride, Row and SkiErg:** the choice of sport shows early on, Gearia and Cranko both ride, riders vary in jersey, and the Row and SkiErg shots stay up long enough to read.
