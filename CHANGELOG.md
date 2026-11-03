@@ -11,6 +11,49 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.18.0
+
+- **Leaderboards on every KOM and sprint:** the banner shows your place as you ride, such as 2nd of 12, and the summary says where your time finished.
+- **A leaderboard for each course:** press **Leaderboard** on a course, or open You, Progress. Choose Open or Solo, all time or this month, and everyone or riders like you.
+- **Your name, your choice:** other riders see your first name and last initial, your time and your watts per kilo. Untick **Show my times on leaderboards** in Edit rider, Account to take your times off.
+- **Riders like you:** add your sex, year of birth and height in Edit rider, Rider to see riders of your sex or age. They are never shown to anyone.
+- **Fair times:** simulator rides never count and riders under 18 aren't listed. A big change in weight or height keeps your times off the boards for 30 days.
+- **Sign-up asks for your last name,** which the leaderboards show as an initial.
+- **Haze in the sky's own colour:** distant hills fade into the sky behind them instead of glowing, on every course.
+- **Livelier crowds:** the people by the road wear shorts, caps and different hair, stand in more poses and no longer look like copies of each other.
+- **Cars with real shapes:** parked cars have shaped bodies instead of boxes.
+- **Your ride starts when you did:** REPley now shows the time your ride began, not when you finished minus your moving time.
+- **A file for Garmin Connect:** the ride summary has a quiet option to save your ride as a file you can upload to Garmin Connect.
+- **A tidier media panel:** the video panel's buttons turn into icons when the window is narrow.
+- **Ultra on a 4K screen:** Ultra now draws on 4K displays, where before it could show nothing at all.
+- **Ride, Row or SkiErg as the app opens:** pick what you're on today. A Concept2 RowErg or SkiErg with a PM5 connects over Bluetooth, and your smart trainer waits for the next ride.
+- **Row the Yarra at dawn:** six lanes below the city, past Princes Bridge and the botanic gardens, with balloons in a pink sky. Or row the forest river.
+- **Ski an alpine trail at dawn:** a SkiErg kicks and double-poles six classic tracks through snowy firs, below the peaks and past the chalets.
+- **Rower numbers on screen:** pace per 500 m against 2:00, stroke rate, heart rate and your splits. The rower on screen strokes when you do and waits at the catch when you stop.
+- **Race in the lanes:** time 500 m, 1 km and 2 km pieces from the start line. Cranko holds 2:00 beside you, and your best and the board's fastest race as ghosts.
+- **Rows and skis are kept and sent:** each one is saved with its splits and goes to REPley and Strava as rowing or cross-country skiing.
+- **Start waits for the trainer:** pressing Start while the trainer is still connecting no longer fails, and a sleeping PM5 is told how to wake.
+- **Streets that go somewhere:** on Beach Road, car parks are now asphalt with painted bays, and streets that stopped dead in the grass end in a court or join the road they were heading for.
+- **A real bayside suburb:** the empty lawns between houses are filled with terraces and flats in St Kilda and houses on full-size blocks further south, each with its driveway, garden and back yard.
+- **Fences the Australian way:** on High and Ultra, side fences run from the back fence right up to the front wall, and Beach Road houses have high brick, rendered or slatted front walls.
+- **Signs and signals:** street-name signs, give-way and stop signs, traffic lights and zebra crossings now stand at Beach Road's junctions, where the map puts them.
+- **Wildflowers and real trees on more courses:** on High and Ultra, the Calm trail, Mount Buller and the made-up climb get drifts of wildflowers, shrubs and the detailed trees from the real climbs.
+- **St Kilda Pier, mended:** the railings stand on the deck, the deck reaches the shore and the kiosk turnaround has rails of its own.
+- **Firs you can believe:** on High and Ultra the climbs have real 3D firs beside the road, out to 400 m on Ultra.
+- **Bark and leaves up close:** on High and Ultra the big trees wear photographed bark, and Ultra's gums have fuller canopies.
+- **Buildings in brick, weatherboard and iron:** on High and Ultra, walls and roofs show their real materials, weather stains and windows set into the walls. Old tiled roofs on Ultra have relief and lichen.
+- **Heritage street lamps:** Melbourne's old-style lamps line the streets on High and Ultra.
+- **Shiny paintwork:** parked cars have clear-coat paint with reflections on High and Ultra.
+- **Riders who look like riders:** the flatter jersey back is softer now, so women keep their hips and men look lean rather than heavy-set.
+- **Firs with real needles:** on High and Ultra the firs beside the climbs wear needle sprays modelled twig by twig, not painted fronds.
+- **Roofs that have seen some weather:** on High and Ultra, iron roofs fade in the sun, rust a little by the gutter and show each sheet. Deep eaves show their rafters.
+- **No more roofs over thin air:** a building with a corner cut out now gets a roof that fits its walls, like the hall at the bottom of Fitzroy Street.
+- **More beach on Beach Road:** the sand now reaches as far back as the real beaches, so Middle Brighton and Hampton are wide sand, not lawn. On High and Ultra it has damp and dry shades.
+- **Café tables by the water:** on High and Ultra, the foreshore cafés and kiosks put out tables under umbrellas on their sea side, with people sitting at some of them.
+- **Umbrellas on the sand:** on High and Ultra, groups of striped beach umbrellas with towels stand on the wider beaches near the road.
+- **Flower beds on the foreshore:** on High and Ultra, beds of flowers, grass and shrubs line the bay trail between the road and the sand.
+- **A fuller Hampton:** on High and Ultra, big back yards behind Beach Road get a unit, a shed, a pool or a tree, so the blocks read as a real suburb.
+
 ## 0.17.1
 
 - **Arches at every line:** every sprint, KOM and finish line has an inflatable arch in place of the old metal gantry. Sprint arches are green, KOM arches white with red polka dots, and each reads START or FINISH.
