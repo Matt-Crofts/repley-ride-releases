@@ -31,7 +31,8 @@ These links always give the newest version. Every download's checksum is in `SHA
 
 | Version | Released |
 |---|---|
-| **0.17.1** (newest) | 28 Oct 2026, 10:28 AM |
+| **0.18.0** (newest) | 3 Nov 2026, 11:31 PM |
+| 0.17.1 | 28 Oct 2026, 10:36 AM |
 | 0.17.0 | 27 Oct 2026, 8:00 PM |
 | 0.16.0 | 25 Oct 2026, 9:12 PM |
 | 0.15.0 | 22 Oct 2026, 4:08 PM |
@@ -41,7 +42,6 @@ These links always give the newest version. Every download's checksum is in `SHA
 | 0.13.1 | 16 Oct 2026, 5:11 PM |
 | 0.13.0 | 16 Oct 2026, 4:47 PM |
 | 0.12.0 | 16 Oct 2026, 12:05 AM |
-| 0.11.0 | 15 Oct 2026, 5:38 PM |
 
 The newest is at the top, with when it came out (Melbourne time). When a newer version than yours is out,
 REPley Ride says so on its start screen, with a link back here.
