@@ -31,7 +31,7 @@ These links always give the newest version. Every download's checksum is in `SHA
 
 | Version | Released |
 |---|---|
-| **0.18.2** (newest) | 4 Nov 2026, 12:44 AM |
+| **0.18.3** (newest) | 4 Nov 2026, 12:53 AM |
 | 0.18.1 | 4 Nov 2026, 12:04 AM |
 | 0.18.0 | 3 Nov 2026, 11:40 PM |
 | 0.17.1 | 28 Oct 2026, 10:36 AM |
