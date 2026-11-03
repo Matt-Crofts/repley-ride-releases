@@ -11,6 +11,11 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.18.4
+
+- **The opening film ends on Ride, Row and SkiErg:** the choice of sport shows early on, Gearia and Cranko both ride, riders vary in jersey, and the Row and SkiErg shots stay up long enough to read.
+- **The Ride, Row or SkiErg page in the light theme:** a pale veil over its picture keeps the words readable.
+
 ## 0.18.3
 
 - **A brand-new opening film:** every shot rendered fresh on Ultra, with St Kilda's foreshore and pier at golden hour, and today's app screens filmed in Melbourne, the pages in the light theme.
