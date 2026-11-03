@@ -11,6 +11,12 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.18.1
+
+- **Train for HYROX on REPley Row and SkiErg:** row and ski 500 m, 1 km and 2 km pieces on your Concept2, solo or with your PT.
+- **A new look for the opening film:** REPley Row on the Yarra at dawn and SkiErg on the alpine trail join the cuts, and the app screens drift gently instead of zooming.
+- **Clearer icons for Row and SkiErg:** a rower on the erg and a skier at the SkiErg tower on the opening screen.
+
 ## 0.18.0
 
 - **Leaderboards on every KOM and sprint:** the banner shows your place as you ride, such as 2nd of 12, and the summary says where your time finished.
