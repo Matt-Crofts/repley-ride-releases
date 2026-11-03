@@ -11,7 +11,15 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.18.3
+
+- **A brand-new opening film:** every shot rendered fresh on Ultra, with St Kilda's foreshore and pier at golden hour, and today's app screens filmed in Melbourne, the pages in the light theme.
+
 ## 0.18.2
+
+- **0.18.1 again:** a rebuild of 0.18.1, with nothing new for riders.
+
+## 0.18.1
 
 - **Train for HYROX on REPley Row and SkiErg:** row and ski 500 m, 1 km and 2 km pieces on your Concept2, solo or with your PT.
 - **A new look for the opening film:** REPley Row on the Yarra at dawn and SkiErg on the alpine trail join the cuts, and the app screens drift gently instead of zooming.
