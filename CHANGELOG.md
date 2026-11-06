@@ -11,6 +11,13 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.18.6
+
+- **A RowErg or SkiErg from the first launch:** choose your machine on Your rider and pair your PM5 next. No bike step, and no quitting and reopening to reach Row.
+- **Start row always rows:** after opening Your program in the menu, Start row and Start ski could do nothing. Now they start.
+- **A row's time and distance now match your PM5.** Stop to rest and the clock and metres stop with the monitor, instead of counting on at your last pace. The boat still glides on the water.
+- **Rows and SkiErg sessions say so.** The summary, saving and finish screens now say row or ski, not ride.
+
 ## 0.18.5
 
 - **A sharper opening film:** the trees along the Yarra and the snow on the SkiErg trail no longer break up or blur.
