@@ -11,6 +11,11 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.18.7
+
+- **Your program on Row and SkiErg:** the same program now shows on all three. A ride day takes you to Ride with one press.
+- **Switch between Ride, Row and SkiErg without closing the app:** press Switch in the menu. On Row and SkiErg, the menu now shows only what works there.
+
 ## 0.18.6
 
 - **A RowErg or SkiErg from the first launch:** choose your machine on Your rider and pair your PM5 next. No bike step, and no quitting and reopening to reach Row.
