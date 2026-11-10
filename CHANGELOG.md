@@ -11,6 +11,13 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.18.8
+
+- **Workouts on the Row and SkiErg:** six rowing and five ski sessions sized from your 2k, followed by pace on the screen, with a 2k test to set it. Pieces end on your monitor's metres.
+- **A session cut to fit counts true:** Threshold 3 × 8 now reads 1 of 3 on the bar, not 1 of 4.
+- **A smoother ski stroke:** the skier's elbows bend the natural way through the finish.
+- **No ring round Cranko:** on the water and the snow he no longer carries his bike's glowing wheel rims.
+
 ## 0.18.7
 
 - **Your program on Row and SkiErg:** the same program now shows on all three. A ride day takes you to Ride with one press.
