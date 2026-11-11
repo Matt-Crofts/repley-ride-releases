@@ -11,6 +11,22 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.18.9
+
+- **A blue sky over Beach Road, the Yarra and the ski trail:** the sky there was a dark slate grey even in sunshine. It is now a clear blue, and it still turns grey under cloud and pink at sunrise and sunset.
+- **Rivers that look like water on every device:** phones and older laptops showed stripes across the river and now get rippled water. On High and Ultra a light wind breaks up the mirror-sharp reflections.
+- **Your boat leaves a wake:** a soft wash runs off the hull, and each stroke leaves a puddle either side that drifts astern. On Medium and above.
+- **Skiing in daylight:** the afternoon sun now clears the firs, so the snow is sunlit with long blue shadows. The trail sits between banks of snow with drifts beyond.
+- **Smaller lane buoys:** they are now the size a regatta uses.
+- **Snow that sits on the firs:** each bough on the ski trail now carries a white pillow of snow with green needle tips showing round it. Before, the trees looked like shredded white paper.
+- **Build your next block around your own gym:** tick what you have at home, from dumbbells to cables and a Smith machine, and your plan uses that and nothing else.
+- **Say what to change each block:** pick "More cable work" or "Shorter gym days", or type your own, before you build.
+- **"Change my answers" works:** it takes you back to your answers from a plan that is ready, on a first plan and a next block.
+- **Gym days that differ:** a gym day no longer repeats in a week or ends on an elliptical. Your rides are the cardio.
+- **Brighter, truer snow on the SkiErg trail:** white in the sun, blue in the shade, with crystals that glint as you pass on High and Ultra.
+- **A clearer river to row:** the white glare down the middle of the forest river is gone, and the clouds and the boat's bow no longer glow on the Yarra.
+- **People at the finish:** spectators stand on both banks at the 2 km line, and by the start of the ski trail.
+
 ## 0.18.8
 
 - **Workouts on the Row and SkiErg:** six rowing and five ski sessions sized from your 2k, followed by pace on the screen, with a 2k test to set it. Pieces end on your monitor's metres.
