@@ -11,6 +11,24 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.18.10
+
+- **Ride on a Concept2 BikeErg:** choose Ride and your BikeErg's PM5 shows with the trainers. Open Connect on the PM5. Your watts and cadence ride the course like any bike, hills included.
+- **Stroke rates on the Row:** each effort in a Row session names a stroke rate beside its pace, and the rate turns green when you hold it. New: Steady 45 at 18 and a Rate ladder.
+- **Race stations on the Row and SkiErg:** a 1,000 m test times a race station's distance and leaves your 2k alone. New too: 6 × 250 m, and Run and row (or ski) with a 400 m run before each 500 m.
+- **Race your gym on the row and SkiErg:** if you train with a coach, the 500 m, 1 km and 2 km pieces from the start line now race your gym's best. The gym record and the gym-mate just ahead of you row beside you.
+- **Official times:** your fastest 500 m and 1 km of each row or SkiErg session go to your coach as official times, marked Official on your summary.
+- **Your choice, as before:** Show my times on leaderboards also covers your gym's board. Riders under 18 are never listed.
+- **Your plan's rows and SkiErg work, on the machine:** a row or SkiErg exercise in your program now has Row it or Ski it. One tap and the session is ready, sized from your 2k.
+- **Every interval back in your plan:** each interval's time and metres land on that exercise in REPley, where a coach sees them too. Gym follow-along skips an exercise you rowed that day.
+- **Every week of your program:** Your program now shows all its weeks. Open any week to ride a session or tick off a gym day, and This week is one press back.
+- **Gym days log themselves:** follow a gym day along and each set is saved in REPley as you go. Your phone app, your coach and your next block all see it, with no second app to open.
+- **Done as planned:** one press ticks off a whole gym day with the plan's reps. Change the reps or add the weight on any set when you want the detail kept.
+- **Gym days wait for a connection:** a gym day done offline is kept on your device and sent to REPley when it is back in reach.
+- **A shorter plan says so:** if REPley could only fill some of the weeks from the kit you ticked, the plan screen now tells you how many, and how to get them all.
+- **Help us fix trainer problems:** each ride sends the REPley Ride team a short trace of your power, cadence, speed and what your trainer was told. Never heart rate. Turn it off in Edit rider, Account.
+- **Calm rides start in sim:** every course on Free ride now starts with road feel. Turn ERG on with its switch when you want the trainer to hold your watts.
+
 ## 0.18.9
 
 - **A blue sky over Beach Road, the Yarra and the ski trail:** the sky there was a dark slate grey even in sunshine. It is now a clear blue, and it still turns grey under cloud and pink at sunrise and sunset.
