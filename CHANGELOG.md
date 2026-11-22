@@ -11,6 +11,20 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.18.12
+
+- **Kart racing:** race five robot karts round a circuit in the Adventure park. Your legs are the engine, on a bike, a rower or a SkiErg, and it's open to everyone.
+- **Kettlebells and boosts:** boxes on the track hand you kettlebells and boosts. Throw a kettlebell at the kart ahead with B, and steer between four lanes from the keys or a controller.
+- **A Kids level:** an easier race for young racers, with Truffle the pig, Nibbles the mouse, Santa and Comet the reindeer to drive. A Kids race goes to REPley with its time and distance only, never heart rate, power or Strava.
+- **Christmas on the snow trail:** Santa's house sits beside the SkiErg trail with elves, presents and reindeer. Santa walks out to meet you as you ski past.
+- **Calmer connecting:** a trainer the app can't hear yet now says Waiting rather than failing, and a rower and a SkiErg each keep their own PM5.
+- **Your plan, one slide at a time:** a new plan is shown as slides, then you choose to unlock it or ride free.
+- **Rowers and skiers welcome:** the welcome shows a rower rowing and a skier skiing, in the words of their machine.
+- **Fits a smaller window:** the sport choice and the menu fit a narrow or tiled window.
+- **Sign out you can find:** on a phone, You now shows who is signed in with Sign out right there. Rides waiting to send stay on the phone.
+- **A calmer ride summary:** saving, Strava and how it felt come first. Pictures, files and heart rate detail sit under More.
+- **Tidier phone screens:** the summary heading lines up, and the Close button that only made sense on a computer is gone from phones.
+
 ## 0.18.11
 
 - **Security fixes:** the desktop app now runs on Electron 44.11.5, with November's fixes to its built-in Chromium and Node.
