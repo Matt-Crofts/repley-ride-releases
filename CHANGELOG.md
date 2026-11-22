@@ -11,6 +11,10 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.18.11
+
+- **Security fixes:** the desktop app now runs on Electron 44.11.5, with November's fixes to its built-in Chromium and Node.
+
 ## 0.18.10
 
 - **Ride on a Concept2 BikeErg:** choose Ride and your BikeErg's PM5 shows with the trainers. Open Connect on the PM5. Your watts and cadence ride the course like any bike, hills included.
