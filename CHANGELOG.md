@@ -11,6 +11,12 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.18.14
+
+- **Arms and shoulders that look real:** riders' upper arms now hang cleanly from the shoulder instead of swelling into it, with a rounded deltoid, biceps and triceps. Jerseys catch the light like race lycra.
+- **Your size counts on the road:** your height and weight now set how much air you push, so a bigger rider meets more drag and a smaller one less. Add your height under Rider.
+- **Weight and height, kept true:** once entered they take a confirm to change, and figures outside a human range are refused. Younger riders with a birth year set can enter a child's size.
+
 ## 0.18.13
 
 - **Steer for yourself:** set Steering to Manual on Edit rider's new Advanced tab to hold your own line. Nothing pulls you onto a wheel, so the draft is yours to find and keep.
