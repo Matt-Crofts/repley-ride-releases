@@ -11,6 +11,23 @@ in docs/beta/next/ (see its README), which the release gathers under Next, so pu
 care about, with a **bold lead** where it has one: the app's update line names the version by those leads.
 -->
 
+## 0.18.13
+
+- **Steer for yourself:** set Steering to Manual on Edit rider's new Advanced tab to hold your own line. Nothing pulls you onto a wheel, so the draft is yours to find and keep.
+- **Your own heart-rate zones:** set your max heart rate, or each zone yourself, on the Advanced tab. Your heart rate takes its zone's colour as you ride, and each summary shows your time in each zone.
+- **Tidier settings:** power smoothing, W/kg under power and screen edges now live on the Advanced tab. The leaderboard details sit under the leaderboards switch on You, Account.
+- **No more stripes on the hills:** on Ultra, faint dark dashes no longer show across far hillsides. The shading that grounds buildings and trees now fades out past about 100 m.
+- **Riders built like fit cyclists:** shoulders, waist, arms and legs now match a fit rider's measurements, and the neck rises from the shoulders instead of looking stretched.
+- **More shape in the arms and legs:** a little shading where the muscles meet, so a rider's arms read less like smooth tubes.
+- **Stone bridges over the creeks:** where a climb's road crosses a creek or river, you now ride over an arched stone bridge with parapets, and the water runs through the arch below.
+- **A real wombat:** the wombats beside the Australian climbs now have a grizzled coat, a bare nose and claws. They still nose about at the trail's edge and waddle off into the ferns as you ride up.
+- **A real kangaroo:** the eastern greys on the Australian climbs now have a proper coat, a pale chest and a dark-tipped tail. They still graze, look up as you come close and bound away.
+- **Sheep on the farmland climbs:** mobs of Merino ewes now graze the paddocks on climbs like Mount Buninyong. They look up as you ride near, and if you pass close the whole mob trots off together.
+- **A real crowd:** spectators at finishes, hairpins and village streets now look like real people in everyday clothes. They clap, cheer, walk past and sit at cafés.
+- **New helmets:** the road, aero, time trial and gravel helmets have new shapes. They sit lower on the head, the road helmet has sculpted vents, and the time trial helmet's visor now wraps round the face.
+- **Kit that looks like kit:** jerseys now have a collar, raised cuffs, a hem over the bib, mesh side panels and a proper zip. Hoops and stripes run cleanly into the sleeves, and the muscle shows through the lycra.
+- **Footy guernseys and football shirts:** pick a Top in your rider locker to wear any kit or club colours as a sleeveless guernsey or a football shirt.
+
 ## 0.18.12
 
 - **Kart racing:** race five robot karts round a circuit in the Adventure park. Your legs are the engine, on a bike, a rower or a SkiErg, and it's open to everyone.
